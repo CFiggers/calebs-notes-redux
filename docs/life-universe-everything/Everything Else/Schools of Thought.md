@@ -1,0 +1,5 @@
+---
+
+---
+
+# Schools of Thought

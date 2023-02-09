@@ -1,0 +1,5 @@
+---
+
+---
+
+# Functional Programming Paradigm

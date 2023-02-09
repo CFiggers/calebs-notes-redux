@@ -1,0 +1,5 @@
+---
+
+---
+
+# Academic Philosophy
