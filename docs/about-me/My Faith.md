@@ -22,14 +22,7 @@ real. I believe he
 [created](https://calebsnotes.brick.do/creation-P6Denm5RQdzn) the entire
 [Universe](https://calebsnotes.brick.do/the-universe-wMV8qe9GVV7j).
 
-I believe that the Christian scriptures (aka,
-"<a href="https://brick.do/L5D2L2nMpe8o" class="page-link">The Bible</a>")
-contain [God's actual
-writings](https://calebsnotes.brick.do/inspiration-x1nz8nqJpoZV). I
-believe <a href="https://brick.do/pDKA557JXbPo" class="page-link">God</a> wants
-humans to know about and believe [the
-message](https://calebsnotes.brick.do/the-gospel-BAJ0dWx2AV8b) that is
-in [his book](https://calebsnotes.brick.do/the-bible-L5D2L2nMpe8o).
+I believe that the Christian scriptures (aka, "<a href="https://brick.do/L5D2L2nMpe8o" class="page-link">The Bible</a>") contain [God's actual writings](https://calebsnotes.brick.do/inspiration-x1nz8nqJpoZV). I believe <a href="https://brick.do/pDKA557JXbPo" class="page-link">God</a> wants humans to know about and believe [the message](https://calebsnotes.brick.do/the-gospel-BAJ0dWx2AV8b) that is in [his book](https://calebsnotes.brick.do/the-bible-L5D2L2nMpe8o).
 
 <a href="https://brick.do/L5D2L2nMpe8o" class="page-link">The Bible</a> teaches
 that all humans are born with [a terminal
