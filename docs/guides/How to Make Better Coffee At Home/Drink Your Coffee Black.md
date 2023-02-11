@@ -47,4 +47,4 @@ around. And sometimes, when my beans are especially old or I've done a
 particularly iffy job on the brew, I'll add some sugar rather than waste
 it (or suffer through a cup that just tastes horrible!).
 
-Up: <a href="https://brick.do/gPlmp9v0JkrB" class="page-link">How to Make Better Coffee At Home</a>
+Up: [[How to Make Better Coffee At Home]]

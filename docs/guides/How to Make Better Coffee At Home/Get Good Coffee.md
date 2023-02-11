@@ -4,7 +4,7 @@
 
 # Get Good Coffee
 
-Up: <a href="https://brick.do/gPlmp9v0JkrB" class="page-link">How to Make Better Coffee At Home</a>
+Up: [[How to Make Better Coffee At Home]]
 
 ### **Why start with good coffee?**
 

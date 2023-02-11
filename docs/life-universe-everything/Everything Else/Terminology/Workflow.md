@@ -8,11 +8,11 @@
 
  
 
-### **Workflow **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Workflow **[[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** related to Workflow**
+### [[Topics]]** related to Workflow**
 
  
 

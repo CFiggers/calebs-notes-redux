@@ -8,11 +8,11 @@
 
  
 
-### **Wisdom **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Wisdom **[[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** in Wisdom**
+### [[Topics]]** in Wisdom**
 
 -   [**The Fear of YHVH is the Beginning of
     Wisdom**](https://calebsnotes.brick.do/the-fear-of-yhvh-is-the-beginning-of-wisdom-zlDwjJZLoqe5)

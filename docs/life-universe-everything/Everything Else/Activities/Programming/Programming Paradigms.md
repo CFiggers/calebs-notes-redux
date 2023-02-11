@@ -11,7 +11,7 @@ programmers use to
 [Label](https://calebsnotes.brick.do/labels-yxeGm0QEvdaz) major
 differences of approach when [solving
 problems](https://calebsnotes.brick.do/problem-solving-1bjbLbOZ4gRE)
-in <a href="https://brick.do/M97QENmBmO0L" class="page-link">Programming</a>.
+in [[Programming]].
 
 Most (if not all) major [Programming
 Languages](https://calebsnotes.brick.do/languages-programming-pR2EBPYNNqDm)
@@ -27,23 +27,23 @@ That said, most languages give extra attention to facilitating a
 particular paradigmatic approach more strongly than others. This leads
 certain languages (or individual language features) to become associated
 with certain paradigms. As an
-example, <a href="https://brick.do/38gwm7Px64YD" class="page-link">Haskell</a> is
+example, [[Haskell]] is
 strongly associated with
-the <a href="https://brick.do/1G6WVkM5m8yM" class="page-link">Functional Programming Paradigm</a>.
+the [[Functional Programming Paradigm]].
 
 At the end of the day, a **Programming Paradigm** is a style
-of <a href="https://brick.do/X90XApqY3ow2" class="page-link">Thinking</a> that
+of [[Thinking]] that
 applies
-to <a href="https://brick.do/M97QENmBmO0L" class="page-link">Programming</a> tasks
+to [[Programming]] tasks
 (and sometimes other tasks too).
 
 The most common **Programming Paradigms** in use today are:
 
--   <a href="https://brick.do/y5QpmJj0k4Eb" class="page-link">Imperative Programming Paradigm</a>
--   <a href="https://brick.do/4n424OXZB5dq" class="page-link">Procedural Programming Paradigm</a>
--   <a href="https://brick.do/1YpLMNv4j3qY" class="page-link">Object-Oriented Programming Paradigm</a>
--   <a href="https://brick.do/1G6WVkM5m8yM" class="page-link">Functional Programming Paradigm</a>
--   <a href="https://brick.do/7KgZxN3kjxqD" class="page-link">Literate Programming Paradigm</a>
+-   [[Imperative Programming Paradigm]]
+-   [[Procedural Programming Paradigm]]
+-   [[Object-Oriented Programming Paradigm]]
+-   [[Functional Programming Paradigm]]
+-   [[Literate Programming Paradigm]]
 
 ### **Programming Paradigm Concepts**
 

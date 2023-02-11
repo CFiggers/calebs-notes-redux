@@ -5,10 +5,10 @@
 
 I have some hobbies:
 
--   <a href="https://brick.do/M97QENmBmO0L" class="page-link">Programming</a>
--   <a href="https://brick.do/b097PBa2bpv3" class="page-link">AutoHotkey</a> Scripting
--   <a href="https://brick.do/oR8yQ5DZwPOo" class="page-link">Personal Knowledge Management</a>
--   <a href="https://brick.do/5XJxz1OD7D9g" class="page-link">Coffee</a>
+-   [[Programming]]
+-   [[AutoHotkey]] Scripting
+-   [[Personal Knowledge Management]]
+-   [[Coffee]]
 -   Fountain Pens (less today than in the past)
 -   [Tabletop Roleplaying
     Games](https://calebsnotes.brick.do/tabletop-role-playing-games-ttrp-gs-KnqDJpl9YQL8)

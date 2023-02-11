@@ -9,9 +9,9 @@
  
 
 Just
-like <a href="https://brick.do/pDKA557JXbPo" class="page-link">God</a> himself
+like [[God]] himself
 is three persons, yet
-one <a href="https://brick.do/pDKA557JXbPo" class="page-link">God</a>,
+one [[God]],
 and just like a husband and wife are two people but one covenant union,
 the Holy Spirit unites believing sinners to Jesus by a new kind of
 covenant in his blood so that they, while still being separate people,

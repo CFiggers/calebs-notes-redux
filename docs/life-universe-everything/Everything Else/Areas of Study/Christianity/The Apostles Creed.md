@@ -45,10 +45,10 @@
 > Amen.*
 
 (**The Apostle's Creed** was originally recorded in
-both <a href="https://brick.do/B245jwkbZLRq" class="page-link">Greek</a> and <a href="https://brick.do/Jl59l3MgwrEA" class="page-link">Latin</a>,
-not <a href="https://brick.do/0q5Q8p5nMe2B" class="page-link">English</a>.
+both [[Greek]] and [[Latin]],
+not [[English]].
 It sometimes goes by the name "Symbol of the Apostles" or "Symbol
-of <a href="https://brick.do/gBk0KVe3wBL7" class="page-link">The Trinity</a>,"
+of [[The Trinity]],"
 with the word "Symbol" being used almost interchangeably with the more
 current term "Creed." This English translation and the introductory
 statement before it is from the *Trinity Hymnal*, rev. ed (Suwanee, GA:

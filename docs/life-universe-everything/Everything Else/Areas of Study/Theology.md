@@ -34,46 +34,46 @@ following branches:
 
 Of God:
 
--   <a href="https://brick.do/mdQWEPLrnXgx" class="page-link">Theology Proper</a> -
+-   [[Theology Proper]] -
     The study
-    of <a href="https://brick.do/pDKA557JXbPo" class="page-link">God</a> himself
+    of [[God]] himself
     and
-    of <a href="https://brick.do/3QYyVl093xzw" class="page-link">God The Father</a>
--   <a href="https://brick.do/GKvN7VGOP878" class="page-link">Christology</a> -
+    of [[God The Father]]
+-   [[Christology]] -
     The study
-    of <a href="https://brick.do/eLn0ya3z9rXy" class="page-link">Jesus Christ</a>,
+    of [[Jesus Christ]],
     who
-    is <a href="https://brick.do/22JRbEvL02mM" class="page-link">God The Son</a>
--   <a href="https://brick.do/M7KPKzdeQgr3" class="page-link">Pneumatology</a> -
+    is [[God The Son]]
+-   [[Pneumatology]] -
     The study
-    of <a href="https://brick.do/o4MxaNb7JmEm" class="page-link">God The Holy Spirit</a>
+    of [[God The Holy Spirit]]
 
 Of God's other
 [Revelation](https://calebsnotes.brick.do/revelation-Q36lrVAO0Da8):
 
--   <a href="https://brick.do/bZlxrwzY7pmG" class="page-link">Ktisiology</a> -
+-   [[Ktisiology]] -
     The study of what God reveals
-    about <a href="https://brick.do/P6Denm5RQdzn" class="page-link">Creation</a>
--   <a href="https://brick.do/6e0Q1dYozEGp" class="page-link">Hamartiology</a> -
+    about [[Creation]]
+-   [[Hamartiology]] -
     The study of what God reveals
-    about <a href="https://brick.do/46dMY0LDO1aZ" class="page-link">Sin</a>
--   <a href="https://brick.do/lM2vgwkzpK0O" class="page-link">Soteriology</a> -
+    about [[Sin]]
+-   [[Soteriology]] -
     The study of what God reveals about his plan
-    for <a href="https://brick.do/0mP8w8mKDKZy" class="page-link">Salvation</a>
--   <a href="https://brick.do/Zzl9WAKdMLX7" class="page-link">Ecclesiology</a> -
+    for [[Salvation]]
+-   [[Ecclesiology]] -
     The study of what God reveals about his Church
--   <a href="https://brick.do/BEmDeN3nNdgE" class="page-link">Eschatology</a> -
+-   [[Eschatology]] -
     The study of what God reveals about the way the story ends
 
 Of Application:
 
--   <a href="https://brick.do/aKa7YokLW8Np" class="page-link">Practical Theology</a> -
+-   [[Practical Theology]] -
     The study of using **Theology** in real life and in other fields of
     study
-    (like <a href="https://brick.do/qMG580oDDmzN" class="page-link">Philosophy</a>)
--   <a href="https://brick.do/qrA09grvWyYa" class="page-link">Divinities</a> -
+    (like [[Philosophy]])
+-   [[Divinities]] -
     The rigorous, academic study
-    of <a href="https://brick.do/L5D2L2nMpe8o" class="page-link">The Bible</a> and
+    of [[The Bible]] and
     **Theology**
 
 ### **Topics in Theology**

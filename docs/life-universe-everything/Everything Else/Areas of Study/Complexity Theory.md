@@ -8,11 +8,11 @@
 
  
 
-### **Complexity Theory **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Complexity Theory **[[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** in Complexity Theory**
+### [[Topics]]** in Complexity Theory**
 
  
 

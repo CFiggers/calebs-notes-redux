@@ -5,24 +5,24 @@
 # Programming Stuff
 
 I like to tinker
-with <a href="https://brick.do/b097PBa2bpv3" class="page-link">AutoHotkey</a>, <a href="https://brick.do/ZdgvzPy8j5n2" class="page-link">Clojure</a>,
-and <a href="https://brick.do/38gwm7Px64YD" class="page-link">Haskell</a>.
+with [[AutoHotkey]], [[Clojure]],
+and [[Haskell]].
 Here's
-some <a href="https://brick.do/2b5Y6zNym1BW" class="page-link">GitHub</a> pages
+some [[GitHub]] pages
 with some things I've worked on.
 
-### <a href="https://brick.do/b097PBa2bpv3" class="page-link">AutoHotkey</a>
+### [[AutoHotkey]]
 
 #### [roam-autohotkey](https://github.com/CFiggers/roam-autohotkey)
 
 This repo contains a small collection of
-useful <a href="https://brick.do/b097PBa2bpv3" class="page-link">AutoHotkey</a> 
+useful [[AutoHotkey]] 
 scripts for interacting
-with <a href="https://brick.do/MbVK3Lx1EvpV" class="page-link">Roam Research</a>.
+with [[Roam Research]].
 
 ------------------------------------------------------------------------
 
-### <a href="https://brick.do/38gwm7Px64YD" class="page-link">Haskell</a>
+### [[Haskell]]
 
 #### [quad-ci](https://github.com/CFiggers/quad-ci)
 
@@ -30,12 +30,12 @@ This repo contains a reimplementation of the "Quad CI" demo project
 outlined in [The Simple Haskell
 Handbook](https://leanpub.com/simple-haskell-book). It uses docker and
 integrates
-with <a href="https://brick.do/2b5Y6zNym1BW" class="page-link">GitHub</a> to
+with [[GitHub]] to
 run a simple Continuous Integration server. 
 
 ------------------------------------------------------------------------
 
-### <a href="https://brick.do/ZdgvzPy8j5n2" class="page-link">Clojure</a>
+### [[Clojure]]
 
 #### [cuad-ci](https://github.com/CFiggers/cuad-ci)
 
@@ -43,20 +43,20 @@ This repo contains a re-reimplementation of the "Quad CI" demo project
 outlined in [The Simple Haskell
 Handbook](https://leanpub.com/simple-haskell-book), but translated (by
 me)
-from <a href="https://brick.do/38gwm7Px64YD" class="page-link">Haskell</a> into <a href="https://brick.do/ZdgvzPy8j5n2" class="page-link">Clojure</a>.
+from [[Haskell]] into [[Clojure]].
 
 #### [cli4clj](https://github.com/ruedigergad/cli4clj)
 
 **cli4clj** is a library for implementing interactive Command Line
 Interfaces
-in <a href="https://brick.do/ZdgvzPy8j5n2" class="page-link">Clojure</a>.
+in [[Clojure]].
 I contributed a small feature addition to this project.
 
 #### [coffee-shop](https://github.com/CFiggers/coffee-shop)
 
 **coffee-shop** is a simple toy project to help me and my younger
 brother
-practice <a href="https://brick.do/ZdgvzPy8j5n2" class="page-link">Clojure</a>.
+practice [[Clojure]].
 Some day, if we keep working on it, it will be a fully-featured business
 simulation game where you run a coffee shop.
 

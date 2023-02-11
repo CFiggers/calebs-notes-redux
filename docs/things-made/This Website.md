@@ -47,7 +47,7 @@ left all the default fonts as-is).
 
 I've also adjusted the syntax highlighting in code blocks to more
 closely resemble the default Dark+ theme
-in <a href="https://brick.do/bjlZgglMDmR1" class="page-link">VS Code</a> (my <a href="https://brick.do/3QwB3zxyZMQ8" class="page-link">Text Editor</a> of
+in [[VS Code]] (my [[Text Editor]] of
 choice):
 
     .rendered-page {
@@ -249,7 +249,7 @@ The footer works similarly: 
         // Create and configure an HTML element.
         const footerBox = document.createElement('div');
         footerBox.setAttribute('class', 'custom-footer-outer');
-        footerBox.innerHTML = "<div class='custom-footer-padding'><p class='custom-footer-inner'>Enjoy something here? I'd love to hear from you! You can <a href='https://twitter.com/messages/compose?recipient_id=1236760268727889921' target='_blank'>direct message me</a> on Twitter or <a href='mailto:cdfiggers@gmail.com'>email me</a> any time. If you want, you can <a href='https://ko-fi.com/calebfiggers' target='_blank'>Support me on Ko-fi &lt;3</a></p></div>";
+        footerBox.innerHTML = "<div class='custom-footer-padding'><p class='custom-footer-inner'>Enjoy something here? I'd love to hear from you! You can [[direct message me]] on Twitter or [[email me]] any time. If you want, you can [[Support me on Ko-fi &lt;3]]</p></div>";
         
         // Select the Footer element from the page's DOM and insert the element 
         // above as the first element in that <div />.

@@ -8,19 +8,19 @@
 
  
 
-### <a href="https://brick.do/8352ZeJP1wp6" class="page-link">Tools</a>** for Knowledge Work**
+### [[Tools]]** for Knowledge Work**
 
  
 
-### <a href="https://brick.do/yyE75gVeQBdw" class="page-link">Techniques</a>** in Knowledge Work**
+### [[Techniques]]** in Knowledge Work**
 
  
 
-### **Knowledge Work **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Knowledge Work **[[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** in Knowledge Work**
+### [[Topics]]** in Knowledge Work**
 
  
 

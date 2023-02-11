@@ -14,12 +14,12 @@
 -   Software
     -   Adobe DC Pro, a PDF Reader and editor
     -   Anki,
-        a <a href="https://brick.do/2gMmaXLEx9na" class="page-link">Spaced Repetition Software</a> program
-    -   <a href="https://brick.do/b097PBa2bpv3" class="page-link">AutoHotkey</a>,
+        a [[Spaced Repetition Software]] program
+    -   [[AutoHotkey]],
         a workflow automation and templating program
     -   Concepts (iOS App), an infinite-canvas drawing application
     -   Git, a program for Version Control of text files
-    -   <a href="https://brick.do/bjlZgglMDmR1" class="page-link">VS Code</a>,
+    -   [[VS Code]],
         a Text Editor and lightweight Integrated Development Environment
     -   Microsoft Lens (Andoid App)
     -   Microsoft Office
@@ -33,11 +33,11 @@
     -   Airtable, an online spreadsheet/database application
     -   BibleArc.com, an online Bible diagramming application
     -   Clockify, a time tracking application
-    -   <a href="https://brick.do/4xkbdY07vWxB" class="page-link">Excalidraw</a>,
+    -   [[Excalidraw]],
         a browser-based whiteboard
     -   GitHub, a Version Control host
     -   Otter.ai, an automated transcript generator
-    -   <a href="https://brick.do/MbVK3Lx1EvpV" class="page-link">Roam Research</a>,
+    -   [[Roam Research]],
         a Networked Notetaking Platform
     -   YouTube
 -   Digital Books

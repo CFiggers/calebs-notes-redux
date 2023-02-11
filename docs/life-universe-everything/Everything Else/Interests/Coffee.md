@@ -14,13 +14,13 @@ skill-based challenge with immediate, objective feedback on whether you
 did a good job. Third (and it's a distant third), it's nice to have a
 caffeine boost from time to time.
 
-### **Coffee **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Coffee **[[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** in Coffee**
+### [[Topics]]** in Coffee**
 
--   <a href="https://brick.do/gPlmp9v0JkrB" class="page-link">How to Make Better Coffee At Home</a>
+-   [[How to Make Better Coffee At Home]]
 
 ### **Areas of Study**
 

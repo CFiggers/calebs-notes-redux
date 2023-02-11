@@ -8,11 +8,11 @@
 
  
 
-### **Metaphysics **<a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Metaphysics **[[Concepts]]
 
--   <a href="https://brick.do/vlDx3lgDLQ7e" class="page-link">The Problem of Universals</a>
+-   [[The Problem of Universals]]
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a>** in Metaphysics**
+### [[Topics]]** in Metaphysics**
 
  
 

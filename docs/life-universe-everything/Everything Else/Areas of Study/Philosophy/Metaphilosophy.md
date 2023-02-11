@@ -8,11 +8,11 @@
 
  
 
-### **Metaphilosophy** <a href="https://brick.do/WBAqVOAWOeKe" class="page-link">Concepts</a>
+### **Metaphilosophy** [[Concepts]]
 
  
 
-### <a href="https://brick.do/bEoP6nNyEaO7" class="page-link">Topics</a> in **Metaphilosophy**
+### [[Topics]] in **Metaphilosophy**
 
  
 
