@@ -8,11 +8,11 @@ I'm a bunch of things (most people are). A few of my things that feel worth ment
 -   Student 
 -   Christian 
 -   Hobbyist
-     -   [Programmer](/programming)
-     -   [Category Theorist](/category-theory)
+     -   [[Programming|Programmer]]
+     -   [[Category Theory|Category Theorist]]
 -   Amateur
-     -   [Philosopher](/philosophy)
-     -   [Theologian](/theology)
+     -   [[Philosophy|Philosopher]]
+     -   [[Theology|Theologian]]
 
 Here's a picture of my goofy face (feat. Jenna, my ❤):
 
