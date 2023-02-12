@@ -3,6 +3,29 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const wikilinks = require('remark-wiki-link');
+const findMD = require("./src/utils/find-markdown")
+
+const mdMap_docs = findMD.makeMDMap("./docs")
+
+function makeResolver (mdmap) {
+  
+  function wikiLinkResolver (inName) {
+
+    if (typeof mdmap.get(findMD.generateSlug(inName)) === 'undefined'){
+      console.log("Encountered undefined: " + inName)
+      return ["sorry"]
+    } else {
+      let lookupVal = mdmap.get(findMD.generateSlug(inName))
+      let retVal = lookupVal.fullPath || "sorry"
+      return [retVal]
+    }
+  }
+
+  return wikiLinkResolver
+}
+
+const linkResolver = makeResolver(mdMap_docs);
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -40,6 +63,9 @@ const config = {
         docs: {
           routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve('./sidebars.js'),
+          remarkPlugins: [[wikilinks, {pageResolver: linkResolver,
+                                       hrefTemplate: (permalink) => "/" + permalink,
+                                       aliasDivider: "|"}]],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //,
