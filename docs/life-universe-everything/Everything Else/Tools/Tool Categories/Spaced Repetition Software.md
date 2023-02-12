@@ -38,4 +38,4 @@ extension.)
 
  
 
-### [[Topics]] in Spaced Repetition Software
+### Topics in Spaced Repetition Software

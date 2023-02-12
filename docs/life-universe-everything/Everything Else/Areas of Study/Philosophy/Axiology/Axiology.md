@@ -29,11 +29,11 @@ Broadly, **Axiology** has two major branches:
 -   [[Beauty]]
 -   [[The Good]]
 
-### [[Topics]]** in Axiology**
+### Topics** in Axiology**
 
  
 
-### Related [[Topics]] in Other Fields
+### Related Topics in Other Fields
 
 Positions held or rejected under **Axiology** can affect the following
 topics

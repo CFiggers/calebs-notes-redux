@@ -20,7 +20,7 @@
 
  
 
-### [[Topics]]** in Knowledge Work**
+### Topics** in Knowledge Work**
 
  
 

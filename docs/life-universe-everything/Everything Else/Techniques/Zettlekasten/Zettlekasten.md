@@ -16,7 +16,7 @@ import DocCardList from '@theme/DocCardList';
 -   [[Literature Notes]]
 -   [[Evergreen Notes]]
 
-### [[Topics]]** in Zettlekasten**
+### Topics** in Zettlekasten**
 
  
 

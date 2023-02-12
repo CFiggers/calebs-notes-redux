@@ -12,7 +12,7 @@
 
  
 
-### [[Topics]]** in Reading**
+### Topics** in Reading**
 
  
 

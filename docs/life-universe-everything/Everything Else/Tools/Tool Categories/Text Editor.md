@@ -19,7 +19,7 @@
 
 -   [[Workflow]]
 
-### [[Topics]]** related to Text Editors**
+### Topics** related to Text Editors**
 
  
 

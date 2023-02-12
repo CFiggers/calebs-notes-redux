@@ -40,7 +40,12 @@ function readFiles(dirPath, arrayOfFiles) {
 function makeMDMap(dirPath) {
     const fileExtensions = [".md", ".mdx"]
 
-    let files = readFiles(dirPath)
+    let files = []
+    
+    dirPath.forEach((thisPath) => {
+        var theseFiles = readFiles(thisPath)
+        theseFiles.forEach((file) => files.push(file))
+    })
 
     return new Map(files
         .filter((filename) => {

@@ -36,6 +36,6 @@ Languages](https://calebsnotes.brick.do/languages-programming-pR2EBPYNNqDm)
 -   [[Programming Paradigms]]
 -   [[Types]] and [[Functions]]
 
-### [[Topics]]** in Programming**
+### Topics** in Programming**
 
 -   [[Programming Teaches Rigorous Thought]]

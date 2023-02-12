@@ -16,4 +16,4 @@
 
  
 
-### [[Topics]]** in Networked Note-taking**
+### Topics** in Networked Note-taking**

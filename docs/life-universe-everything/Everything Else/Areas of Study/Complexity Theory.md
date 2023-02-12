@@ -12,7 +12,7 @@
 
  
 
-### [[Topics]]** in Complexity Theory**
+### Topics** in Complexity Theory**
 
  
 

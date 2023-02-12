@@ -18,7 +18,7 @@ caffeine boost from time to time.
 
  
 
-### [[Topics]]** in Coffee**
+### Topics** in Coffee**
 
 -   [[How to Make Better Coffee At Home]]
 

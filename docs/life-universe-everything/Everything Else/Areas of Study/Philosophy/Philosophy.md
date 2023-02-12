@@ -67,7 +67,7 @@ etc.) are clearer—hence the darker lines.
 
 -   [[Wisdom]]
 
-### [[Topics]] in Philosophy
+### Topics in Philosophy
 
 -   [**On Learning
     Philosophy**](https://calebsnotes.brick.do/on-learning-philosophy-KMxynq93RmO5)

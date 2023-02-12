@@ -23,7 +23,7 @@
 
  
 
-### [[Topics]]** in Note-Taking**
+### Topics** in Note-Taking**
 
  
 

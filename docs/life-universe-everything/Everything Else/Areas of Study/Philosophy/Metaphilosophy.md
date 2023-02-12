@@ -12,7 +12,7 @@
 
  
 
-### [[Topics]] in **Metaphilosophy**
+### Topics in **Metaphilosophy**
 
  
 

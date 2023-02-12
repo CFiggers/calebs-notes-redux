@@ -49,7 +49,7 @@ up to has informational components involved.
 
  
 
-### [[Topics]]** in Knowledge Management**
+### Topics** in Knowledge Management**
 
 -   [**Introduction to Knowledge
     Management**](https://calebsnotes.brick.do/an-introduction-to-knowledge-management-L4R0KxRm9NzO)

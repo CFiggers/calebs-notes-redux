@@ -33,7 +33,7 @@ understanding [[Cause]] and [[Effect]].
     -   [[Deduction]]
     -   [[Induction]]
 
-### [[Topics]] in Logic
+### Topics in Logic
 
  
 

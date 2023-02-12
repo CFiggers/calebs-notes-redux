@@ -45,6 +45,6 @@ easier:
 
 -   [[Zettelkasten]]
 
-### [[Topics]]** in Personal Knowledge Management**
+### Topics** in Personal Knowledge Management**
 
 -   [[My Zettelkasten Method]]

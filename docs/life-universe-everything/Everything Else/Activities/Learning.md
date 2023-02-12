@@ -25,7 +25,7 @@
 
 -   [[Cognitive Load]]
 
-### [[Topics]]** in Learning**
+### Topics** in Learning**
 
  
 

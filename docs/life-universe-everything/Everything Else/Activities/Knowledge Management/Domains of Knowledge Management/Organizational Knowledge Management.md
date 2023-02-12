@@ -26,6 +26,6 @@ out on an organizational level.
 
  
 
-### [[Topics]]** in Organizational Knowledge Management**
+### Topics** in Organizational Knowledge Management**
 
  

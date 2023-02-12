@@ -42,7 +42,7 @@ with it:
 -   [[Composition]] and [[Decomposition]]
 -   [[Identity]]
 
-### [[Topics]]** in** Category Theory
+### Topics** in** Category Theory
 
 -   [**Why I Like Category Theory So
     Much**](https://calebsnotes.brick.do/why-i-like-category-theory-so-much-xBQ87kox0V77)

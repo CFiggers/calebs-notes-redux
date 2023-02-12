@@ -12,7 +12,7 @@
 
 -   [[The Problem of Universals]]
 
-### [[Topics]]** in Metaphysics**
+### Topics** in Metaphysics**
 
  
 

@@ -39,12 +39,12 @@ in [[Reason]].
 -   [[Truth]] (and [[Absolute Truth]])
 -   [[Understanding]]
 
-### [[Topics]] in **Epistemology**
+### Topics in **Epistemology**
 
 -   [**On the Nature of
     Knowledge**](https://calebsnotes.brick.do/on-the-nature-of-knowledge-ONJAq2dVNzkv)
 
-### Related [[Topics]] in Other Fields
+### Related Topics in Other Fields
 
 Positions held or rejected under **Epistemology** can affect the
 following sub-fields

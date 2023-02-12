@@ -29,7 +29,7 @@ other [[Human Enterprise]].
 
 -   [[Theory]] vs [[Practice]]
 
-### [[Topics]] in Applied Philosophy
+### Topics in Applied Philosophy
 
  
 
