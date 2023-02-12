@@ -1,5 +1,0 @@
----
-
----
-
-# Areas of Study

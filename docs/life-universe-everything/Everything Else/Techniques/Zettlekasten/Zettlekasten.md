@@ -2,6 +2,8 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Zettlekasten
 
 ### What is **Zettlekasten?**
@@ -20,4 +22,4 @@
 
 ### **Additional Resources**
 
- 
+ <DocCardList />
