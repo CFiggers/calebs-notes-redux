@@ -6,8 +6,7 @@
 
 ### **What is Abstraction?**
 
-**Abstraction** is a form of [Pattern
-Recognition](https://calebsnotes.brick.do/pattern-recognition-0xq621M5RYvd).
+**Abstraction** is a form of [[Pattern Recognition]].
 Rather than an exact match between two things, an **Abstraction** is a
 pattern in which only some of the details of each thing match—the
 dissimilarities are ignored. 
@@ -17,7 +16,7 @@ details that are meaningful. A poor (or *unhelpful*) **Abstraction**
 creates links between unimportant shared details.
 
 **Abstraction** and
-[Reification](https://calebsnotes.brick.do/reification-8x1kBaJ9M7Wp) are
+[[Reification]] are
 inverse counterparts.
 
 ![Abstraction

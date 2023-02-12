@@ -4,8 +4,7 @@
 
 # What kinds of grinders are there?
 
-Previous: [How do I grind coffee beans
-myself?](https://calebsnotes.brick.do/how-do-i-grind-coffee-beans-myself-98w98jYrWGRM)
+Previous: [[How do I grind coffee beans myself?]]
 
 Coffee grinders basically come in three types:
 
@@ -39,5 +38,4 @@ speaking), but tend to be expensive (and sometimes really noisy). A
 quality electric burr grinder will *start* around $150 and go up from
 there, especially the more special features come baked in.
 
-Up: [Grind Your Own
-Coffee](https://calebsnotes.brick.do/grind-your-own-coffee-beans-dWLk8EkJMl5M)
+Up: [[Grind Your Own Coffee]]

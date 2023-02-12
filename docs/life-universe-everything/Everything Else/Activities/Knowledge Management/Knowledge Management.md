@@ -7,11 +7,11 @@
 ### **What is Knowledge Management?**
 
 **Knowledge Management** is the
-[Activity](https://calebsnotes.brick.do/activities-L0MGOrw3YAZK) of
+[[Activity]] of
 collecting, organizing, and
 storing [[Information]],
 in order to promote the
-[Usefulness](https://calebsnotes.brick.do/utility-BR2b1mlyX49O) of
+[[Utility|Usefulness]] of
 that [[Information]].
 **Knowledge Management** is a type
 of [[Knowledge Work]].
@@ -51,5 +51,4 @@ up to has informational components involved.
 
 ### Topics** in Knowledge Management**
 
--   [**Introduction to Knowledge
-    Management**](https://calebsnotes.brick.do/an-introduction-to-knowledge-management-L4R0KxRm9NzO)
+-   [[Introduction to Knowledge Management]]

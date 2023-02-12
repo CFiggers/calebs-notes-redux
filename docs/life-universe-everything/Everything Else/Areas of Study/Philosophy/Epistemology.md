@@ -18,8 +18,7 @@ about [[Knowledge]]."
 what [[Knowledge]] is,
 whether and how humans can interact
 with [[Knowledge]],
-and [systems of organizing
-knowledge](https://calebsnotes.brick.do/knowledge-management-9lXGVWOAJEMj)
+and [[Knowledge Management|systems of organizing knowledge]]
 so that humans can make use of it.
 
 **Epistemology** relates
@@ -41,8 +40,7 @@ in [[Reason]].
 
 ### Topics in **Epistemology**
 
--   [**On the Nature of
-    Knowledge**](https://calebsnotes.brick.do/on-the-nature-of-knowledge-ONJAq2dVNzkv)
+-   [[On the Nature of Knowledge]]
 
 ### Related Topics in Other Fields
 

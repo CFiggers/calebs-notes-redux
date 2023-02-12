@@ -4,8 +4,7 @@
 
 # Source Good Water for Your Coffee
 
-Previous: [Measure Your Coffee by
-Weight](https://calebsnotes.brick.do/measure-your-coffee-by-weight-vrJ0LrbPQdOp)
+Previous: [[Measure Your Coffee by Weight]]
 
 ### **Why is water important for good coffee?**
 
@@ -51,5 +50,4 @@ With that said, some brewing methods use much cooler water—even in some
 cases as cool as \~185°. So temperature does affect the final product.
 You should experiment to find what you like best.
 
-Next: [Tailor Your Coffee Recipe to Your Brew
-Method](https://calebsnotes.brick.do/tailor-your-coffee-recipe-to-your-brew-method-7JpNV2dyXXP1)
+Next: [[Tailor Your Coffee Recipe to Your Brew Method]]

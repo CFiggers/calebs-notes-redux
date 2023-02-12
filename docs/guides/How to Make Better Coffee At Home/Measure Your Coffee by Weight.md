@@ -4,8 +4,7 @@
 
 # Measure Your Coffee by Weight
 
-Previous: [Grind Your Own Coffee
-Beans](https://calebsnotes.brick.do/grind-your-own-coffee-beans-dWLk8EkJMl5M)
+Previous: [[Grind Your Own Coffee Beans]]
 
 ### **Why should I measure coffee by weight?**
 
@@ -44,5 +43,4 @@ Coffee is commonly measured in grams, and you'll often see recipes
 online with gram measurements. But ounces works fine too, if you're
 comfortable doing conversions back and forth.
 
-Next: [Source Good Water for Your
-Coffee](https://calebsnotes.brick.do/source-good-water-for-your-coffee-Ov85QRkmgDVw)
+Next: [[Source Good Water for Your Coffee]]

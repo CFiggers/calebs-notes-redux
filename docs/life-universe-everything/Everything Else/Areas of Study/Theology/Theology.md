@@ -7,12 +7,12 @@
 ### **What is Theology?**
 
 **Theology** is the spiritual and academic study of
-[God](https://calebsnotes.brick.do/god-pDKA557JXbPo) and what he
+[[God]] and what he
 communicates to humanity (this is called
-[Revelation](https://calebsnotes.brick.do/revelation-Q36lrVAO0Da8)).
+[[Revelation]]).
 
 The word "**Theology"** comes from
-[Greek](https://calebsnotes.brick.do/greek-B245jwkbZLRq):
+[[Greek]]:
 
 -   Θεός ("theos") = "God"
 -   λόγος ("logos") = "word"
@@ -49,7 +49,7 @@ Of God:
     of [[God The Holy Spirit]]
 
 Of God's other
-[Revelation](https://calebsnotes.brick.do/revelation-Q36lrVAO0Da8):
+[[Revelation]]:
 
 -   [[Ktisiology]] -
     The study of what God reveals
@@ -80,5 +80,4 @@ Of Application:
 
 -   [**Are "Theology" and "Doctrine"
     different?**](https://calebsnotes.netlify.app/are-theology-and-doctrine-different)
--   [**On "Theology
-    Words"**](https://calebsnotes.brick.do/on-theology-words-nlwpOyMBKGPa)** **
+-   [[On "Theology Words"]]** **

@@ -9,8 +9,7 @@
 **Applied Philosophy** uses positions held or rejected under various
 branches
 of [[Philosophy]] to
-address [the theoretical
-needs](https://calebsnotes.brick.do/theory-PmAjz0BL5pR6) of
+address [[Theory|the theoretical needs]] of
 real-world [[Practice]] and
 decision-making.
 

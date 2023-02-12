@@ -8,13 +8,11 @@
 
 A **Programming Paradigm** is a (somewhat-arbitrary) classification that
 programmers use to
-[Label](https://calebsnotes.brick.do/labels-yxeGm0QEvdaz) major
-differences of approach when [solving
-problems](https://calebsnotes.brick.do/problem-solving-1bjbLbOZ4gRE)
+[[Labels|Label]] major
+differences of approach when [[Problem Solving|solving problems]]
 in [[Programming]].
 
-Most (if not all) major [Programming
-Languages](https://calebsnotes.brick.do/languages-programming-pR2EBPYNNqDm)
+Most (if not all) major [[Languages (Programming)|Programming Languages]]
 in use today combine elements from multiple different **Programming
 Paradigms** in their design and implementation. 
 

@@ -48,5 +48,4 @@ and you can usually get it in bulk for an even better price. I haven't
 tried roasting coffee myself, so if you're interested in that you'd need
 to find another source more helpful than this one. 😄
 
-Next: [Grind Your Own Coffee
-Beans](https://calebsnotes.brick.do/grind-your-own-coffee-beans-dWLk8EkJMl5M)
+Next: [[Grind Your Own Coffee Beans]]

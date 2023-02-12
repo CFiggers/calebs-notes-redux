@@ -4,8 +4,7 @@
 
 # Grind Your Own Coffee Beans
 
-Previous: [Get Good
-Coffee](https://calebsnotes.brick.do/get-good-coffee-poowOXbpOJxr)
+Previous: [[Get Good Coffee]]
 
 ### **Why grind my own coffee beans?**
 
@@ -32,10 +31,7 @@ to grind the beans until right before you plan to brew them.
 
 ### **More Info on Grinding Coffee Beans**
 
--   [How do I grind coffee beans
-    myself?](https://calebsnotes.brick.do/how-do-i-grind-coffee-beans-myself-98w98jYrWGRM)
--   [What kinds of grinders are
-    there?](https://calebsnotes.brick.do/what-kinds-of-grinders-are-there-YpbrJwM3oVyQ)
+-   [[How do I grind coffee beans myself?]]
+-   [[What kinds of grinders are there?]]
 
-Next: [Measure Your Coffee by
-Weight](https://calebsnotes.brick.do/measure-your-coffee-by-weight-vrJ0LrbPQdOp)
+Next: [[Measure Your Coffee by Weight]]

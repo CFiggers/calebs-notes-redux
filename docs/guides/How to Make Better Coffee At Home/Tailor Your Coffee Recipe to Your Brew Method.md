@@ -4,16 +4,14 @@
 
 # Tailor Your Coffee Recipe to Your Brew Method
 
-Previous: [Source Good Water for Your
-Coffee](https://calebsnotes.brick.do/source-good-water-for-your-coffee-Ov85QRkmgDVw)
+Previous: [[Source Good Water for Your Coffee]]
 
 ### **Why do I need to tailor my coffee recipe?**
 
 Well, strictly speaking I suppose you don't! But for maximally delicious
 coffee, some tweaking always makes for a tastier cup.
 
-Broadly speaking, there are two basic [brew
-methods](https://calebsnotes.brick.do/find-a-brew-method-that-you-like-Ade2M08YJWev):
+Broadly speaking, there are two basic [[Find a Brew Method That You Like|brew methods]]:
 **percolation** and **immersion**. For *percolation* methods, you will
 grind your coffee slightly finer and use slightly less of it. For
 *immersion* methods, you'll grind slightly coarser and use slightly
@@ -30,8 +28,7 @@ you the exact ratio that will taste best to you!
 But here's a good place to start: many coffee guides recommend brewing
 at a **1:16 ratio.** That means however much coffee you're brewing with,
 use 16x that much water. Here's some examples of how that stacks up with
-real-world measurements (remember that we're [measuring coffee by
-weight](https://calebsnotes.brick.do/measure-your-coffee-by-weight-vrJ0LrbPQdOp)):
+real-world measurements (remember that we're [[Measure Your Coffee By Weight|measuring coffee by weight]]):
 
 
 |         | Coffee | Water (g) | Water (oz) |
@@ -44,10 +41,8 @@ weight](https://calebsnotes.brick.do/measure-your-coffee-by-weight-vrJ0LrbPQdOp)
 
 \* One "cup" of coffee equates to \~4 fluid oz.
 
-Remember that **immersion** [brew
-methods](https://calebsnotes.brick.do/find-a-brew-method-that-you-like-Ade2M08YJWev)
+Remember that **immersion** [[Find a Brew Method That You Like|brew methods]]
 generally need a bit more coffee than percolation. If you're using an
 immersion method, try switching to a 1:15 ratio instead.
 
-Next: [Find a Brew Method that You
-Like](https://calebsnotes.brick.do/find-a-brew-method-that-you-like-Ade2M08YJWev)
+Next: [[Find a Brew Method that You Like]]

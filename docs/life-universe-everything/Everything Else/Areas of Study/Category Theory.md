@@ -10,7 +10,7 @@
 of [[Mathematics]].
 
 Most branches of
-[math](https://calebsnotes.brick.do/mathematics-xE4kM8kP7j4Z) (like
+[[Mathematics|math]] (like
 Arithmetic, Algebra, Calculus, Statistics, etc.) use symbols (like
 numbers) to represent things. They then use those representations to
 calculate stuff, prove or disprove hypotheses, or make predictions.
@@ -44,7 +44,5 @@ with it:
 
 ### Topics** in** Category Theory
 
--   [**Why I Like Category Theory So
-    Much**](https://calebsnotes.brick.do/why-i-like-category-theory-so-much-xBQ87kox0V77)
--   [**An Introduction to Category
-    Theory**](https://calebsnotes.brick.do/an-introduction-to-category-theory-mjYQNRYqgKW1)
+-   [[Why I Like Category Theory So Much]]
+-   [[An Introduction to Category Theory]]

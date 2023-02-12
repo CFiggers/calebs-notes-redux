@@ -7,13 +7,12 @@
 ### **What is Philosophy?**
 
 **Philosophy** is the principled investigation of what can be perceived
-and understood about [The
-Universe](https://calebsnotes.brick.do/the-universe-wMV8qe9GVV7j),
+and understood about [[The Universe]],
 including what can be perceived and understood about **Philosophy**
 itself.
 
 The word "**Philosophy**" comes from
-[Greek](https://calebsnotes.brick.do/greek-B245jwkbZLRq):
+[[Greek]]:
 
 -   φίλος ("philos") = "Love"
 -   σοφία ("sophia") = "Wisdom"
@@ -69,5 +68,4 @@ etc.) are clearer—hence the darker lines.
 
 ### Topics in Philosophy
 
--   [**On Learning
-    Philosophy**](https://calebsnotes.brick.do/on-learning-philosophy-KMxynq93RmO5)
+-   [[On Learning Philosophy]]

@@ -4,8 +4,7 @@
 
 # How do I grind coffee beans myself?
 
-Up: [Grind Your Own
-Coffee](https://calebsnotes.brick.do/grind-your-own-coffee-beans-dWLk8EkJMl5M)
+Up: [[Grind Your Own Coffee]]
 
 The short answer is, you need a good **coffee grinder**. What makes a
 coffee grinder good? Basically four things:
@@ -69,5 +68,4 @@ essentially "boils" the aromatics out of the coffee. A good grinder will
 shatter the beans into small, consistent pieces *without* warming them
 up too much.
 
-Next: [What kinds of grinders are
-there?](https://calebsnotes.brick.do/what-kinds-of-grinders-are-there-YpbrJwM3oVyQ)
+Next: [[What kinds of grinders are there?]]

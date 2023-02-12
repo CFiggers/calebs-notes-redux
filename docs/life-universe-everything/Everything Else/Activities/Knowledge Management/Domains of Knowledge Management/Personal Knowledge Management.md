@@ -7,13 +7,13 @@
 ### **What is Personal Knowledge Management?**
 
 **Personal Knowledge Management** is the
-[Activity](https://calebsnotes.brick.do/activities-L0MGOrw3YAZK) of
+[[Activities|Activity]] of
 collecting, organizing, and
 storing [[Information]] related
 to all the various subjects, experiences, and fields of study that a
 person learns about over the course of a lifetime. The goal of
 **Personal Knowledge Management** is to increase the
-[Usefulness](https://calebsnotes.brick.do/utility-BR2b1mlyX49O)
+[[Utility|Usefulness]]
 of [[Information]] that
 a person has themselves or has access to. 
 

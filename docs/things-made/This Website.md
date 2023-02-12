@@ -165,8 +165,7 @@ custom favicon using these &lt;head /&gt; tags.
       document.querySelector("link[rel*='apple-touch-icon']").href = icon;
     </script>
 
-This is based on [the guide to changing Favicons in Brick's knowledge
-base.](https://help.brick.do/how-to-change-the-favicon-ZG9pB0nrAYON)
+This is based on [the guide to changing Favicons in Brick's knowledge base.](https://help.brick.do/how-to-change-the-favicon-ZG9pB0nrAYON)
 
 #### SEO Tags
 

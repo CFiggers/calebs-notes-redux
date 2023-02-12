@@ -4,14 +4,9 @@
 
 # Drink Your Coffee Black
 
-Previous: [What to Spend Money On for Better
-Coffee](https://calebsnotes.brick.do/what-to-spend-money-on-for-better-coffee-KmnEZ0pzDEjA)
+Previous: [[What to Spend Money On for Better Coffee]]
 
-This last one is just for fun—making and drinking coffee is about
-**enjoyment.** So if you like cream and sugar, don't let me scare you
-off of it. 😉 I don't make fun of *anyone* for the way they prefer their
-coffee. That just feels mean-spirited and self-important to me. But I
-drink my coffee black, and here's some reasons why.
+This last one is just for fun—making and drinking coffee is about **enjoyment.** So if you like cream and sugar, don't let me scare you off of it. 😉 I don't make fun of *anyone* for the way they prefer their coffee. That just feels mean-spirited and self-important to me. But I drink my coffee black, and here's some reasons why.
 
 ### **Why should I drink my coffee black?**
 

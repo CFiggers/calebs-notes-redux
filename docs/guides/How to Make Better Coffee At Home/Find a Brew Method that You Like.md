@@ -4,8 +4,7 @@
 
 # Find a Brew Method that You Like
 
-Previous: [Tailor Your Coffee Recipe to Your Brew
-Method](https://calebsnotes.brick.do/tailor-your-coffee-recipe-to-your-brew-method-7JpNV2dyXXP1)
+Previous: [[Tailor Your Coffee Recipe to Your Brew Method]]
 
 ### **Why try different brew methods?**
 
@@ -18,8 +17,7 @@ You should try different brew methods for a few reasons:
 
 ### **What brewing methods are there?**
 
-As mentioned on the [Tailor Your Coffee
-Recipe](https://calebsnotes.brick.do/tailor-your-coffee-recipe-to-your-brew-method-7JpNV2dyXXP1)
+As mentioned on the [[Tailor Your Coffee Recipe to Your Brew Method|Tailor Your Coffee Recipe]]
 page, there are two basic brew methods: **percolation** and
 **immersion**.
 
@@ -43,5 +41,4 @@ Here's some examples of each:
     -   Clever Dripper
     -   Cold Brew
 
-Next: [What to Spend Money On for Better
-Coffee](https://calebsnotes.brick.do/what-to-spend-money-on-for-better-coffee-KmnEZ0pzDEjA)
+Next: [[What to Spend Money On for Better Coffee]]
