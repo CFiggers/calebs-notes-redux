@@ -4,7 +4,7 @@
 
 # Programming
 
-### **What is Programming?**
+## What is Programming?
 
 **Programming** is the [[Activities|Activity]] of writing structured instruction sets for computers to follow, in order to accomplish some calculation or task. **Programming** is a type of [[Knowledge Work]].
 
@@ -26,11 +26,11 @@ I have *some* experience with these [[Languages (Programming)|Programming Langua
     -   [[Visualforce]]
 -   [[SQL]] (and derivatives, like SOQL)
 
-### Programming [[Concepts]]
+## Programming [[Concepts]]
 
 -   [[Programming Paradigms]]
 -   [[Types]] and [[Functions]]
 
-### Topics** in Programming**
+## Topics in Programming
 
 -   [[Programming Teaches Rigorous Thought]]

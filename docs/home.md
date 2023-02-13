@@ -27,14 +27,9 @@ The sidebar (👈) has some top-level pages to help me organize this mess.
 
 Here's some stuff I like to [[Thinking|think]] and [[Writing|write]] about to get you started exploring:
 
--   [[My Faith]] (namely, [[Protestantism|Protestant]]
-    [[Evangelicalism|Evangelical]]
-    Reformed
-    Baptist [[Christianity]])
+-   [[My Faith]] (namely, [[Protestantism|Protestant]] [[Evangelicalism|Evangelical]] Reformed Baptist [[Christianity]])
 -   [[Category Theory]]
--   [[Programming]] and
-    [[Languages (Programming)|Programming
-    Languages]]
+-   [[Programming]] and [[Languages (Programming)|Programming Languages]]
     -   [[AutoHotkey]]
     -   [[Clojure]]
     -   [[Haskell]]
