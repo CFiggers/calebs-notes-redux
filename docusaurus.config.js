@@ -74,6 +74,9 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          remarkPlugins: [[wikilinks, {pageResolver: linkResolver,
+            hrefTemplate: (permalink) => "/" + permalink,
+            aliasDivider: "|"}]],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
