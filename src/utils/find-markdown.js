@@ -60,10 +60,14 @@ function makeMDMap(dirPath) {
 
             let rawFile = fs.readFileSync(relativePath, "utf-8");
 
+            var parentDir = parsedFileName.dir.split(path.sep).pop()
+
             return [slug, {
                 filename: parsedFileName.name,
                 extension: path.extname(filename),
-                fullPath: (parsedFileName.dir + "/" + parsedFileName.name)
+                fullPath: (parsedFileName.dir + (parsedFileName.name === parentDir 
+                                                ? "" 
+                                                : "/" + parsedFileName.name))
                           .replace("docs/", "")
                           .replace("(", "")
                           .replace(")", "")
