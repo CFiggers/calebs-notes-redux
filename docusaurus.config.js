@@ -203,7 +203,7 @@ const config = {
             'standalone',
             'queryString',
           ],
-          swRegister: false,
+          // swRegister: "docusaurus-plugin-pwa/src/registerSW.js",
           // swCustom: require.resolve('./src/sw.js'),
           pwaHead: [
             {
