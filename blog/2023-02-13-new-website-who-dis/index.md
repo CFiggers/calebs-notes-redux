@@ -4,9 +4,9 @@ title: New Website, Who Dis?
 tags: [meta, project]
 ---
 
-This is now the *third* iteration of a "Caleb's Notes" website to see the light of day. To celebrate, here's a brief summary of this project's history.
+This is now the *third* iteration of a "Caleb's Notes" website to see the light of day. To celebrate, here's a brief summary of this lovable train wreck's messy history.
 
-<!--Truncate-->
+<!--truncate-->
 
 The first version of "Caleb's Notes" was built using [Gatsby](https://www.gatsbyjs.com/), a static site generator with some extra frills. It looked like this:
 

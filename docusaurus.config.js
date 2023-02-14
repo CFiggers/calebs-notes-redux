@@ -108,7 +108,7 @@ const config = {
       navbar: {
         title: 'Caleb\'s Notes',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Caleb\'s Notes Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -120,11 +120,14 @@ const config = {
           // },
           {
             type: 'docSidebar',
+            label: 'Guides',
             position: 'left',
             sidebarId: 'guides',
-            label: 'Guides',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'},
           {
             href: 'https://ko-fi.com/calebfiggers',
             label: 'Support Me ❤️',
@@ -136,41 +139,49 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Website Sections',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Notes',
+                to: '/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Guides',
+                to: '/guides',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
+            ],
+          },
+          {
+            title: 'Find Me Elsewhere',
+            items: [
+              {
+                label: 'Twitter',
+                href: 'https://www.twitter.com/CalebFiggers',
+              },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/CFiggers',
+              },
+              {
+                label: 'Ko-fi',
+                href: 'https://ko-fi.com/calebfiggers',
+              },
+              {
+                label: 'Email',
+                to: 'mailto:cdfiggers@gmail.com',
+              },
+            ],
+          },
+          {
+            title: 'Source',
+            items: [
+              {
+                label: 'Caleb\'s Notes on GitHub',
+                href: 'https://www.github.com/CFiggers/calebs-notes-redux',
               },
             ],
           },
@@ -182,6 +193,69 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    plugins: [
+      [
+        'pwa',
+        {
+          debug: false,
+          offlineModeActivationStrategies: [
+            'appInstalled',
+            'standalone',
+            'queryString',
+          ],
+          swRegister: false,
+          // swCustom: require.resolve('./src/sw.js'),
+          pwaHead: [
+            {
+              tagName: 'link',
+              rel: 'icon',
+              href: 'img/calebsnotes.png',
+            },
+            {
+              tagName: 'link',
+              rel: 'manifest',
+              href: 'manifest.json',
+            },
+            {
+              tagName: 'meta',
+              name: 'theme-color',
+              content: 'rgb(37, 194, 160)',
+            },
+            {
+              tagName: 'meta',
+              name: 'apple-mobile-web-app-capable',
+              content: 'yes',
+            },
+            {
+              tagName: 'meta',
+              name: 'apple-mobile-web-app-status-bar-style',
+              content: '#000',
+            },
+            {
+              tagName: 'link',
+              rel: 'apple-touch-icon',
+              href: 'img/calebsnotes.png',
+            },
+            {
+              tagName: 'link',
+              rel: 'mask-icon',
+              href: 'img/calebsnotes.png',
+              color: 'rgb(62, 204, 94)',
+            },
+            {
+              tagName: 'meta',
+              name: 'msapplication-TileImage',
+              content: 'img/calebsnotes.png',
+            },
+            {
+              tagName: 'meta',
+              name: 'msapplication-TileColor',
+              content: '#000',
+            },
+          ],
+        },
+      ],
+    ]
 };
 
 module.exports = config;
