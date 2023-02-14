@@ -20,7 +20,7 @@ The sidebar (👈) has some top-level pages to help me organize this mess.
 -   [[What's New]] is an inconsistently-updated Changelog of this website to help document what I've been devoting attention to recently.
 -   Learn about me under [[About Me]].
 -   The biggest section of this "Notes" area is [[life-universe-everything|Life, the Universe, and Everything]], an exercise in [[Thinking in Public]] about... everything I can. You might call it a [[Digital Gardening|digital garden]]. Almost all of the pages in there are placeholders with no content (yet).
--   [[Things I've Made]] serves as a convenient place to link to when I make stuff other places (like [[GitHub]] or Twitter).
+-   [[things-made|Things I've Made]] serves as a convenient place to link to when I make stuff other places (like [[GitHub]] or Twitter).
 -   Finally, [[resources|Resource Library]] is for sharing recommended books, YouTube videos, podcast episodes, and other resources that I've benefitted from (and some of them have commentary as well).
 
 ## New here?
@@ -39,7 +39,7 @@ Here's some stuff I like to [[Thinking|think]] and [[Writing|write]] about to ge
 -   [[Philosophy]]
 -   [[Surviving Seminary]]
 
-Here's some [[My Hobbies|hobbies]] and some [[Media|media]] that I enjoy.
+Here's some [[My Hobbies|hobbies]] and some [[resources|media]] that I enjoy.
 
 ## Brewing Ideas
 

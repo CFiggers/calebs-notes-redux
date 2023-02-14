@@ -4,16 +4,16 @@
 
 # Learning
 
-### What is **Learning?**
+## What is **Learning?**
 
  
 
-### [[Tools]] for Learning
+## [[Tools]] for Learning
 
 -   [[Flashcards]]
 -   [[Spaced Repetition Software]]
 
-### [[Techniques]] in Learning
+## [[Techniques]] in Learning
 
 -   [[Note-Taking]]
 -   [[Reading]]
@@ -21,19 +21,19 @@
 -   [[Spaced Repetition]]
 -   [[Thinking]]
 
-### **Learning **[[Concepts]]
+## Learning [[Concepts]]
 
 -   [[Cognitive Load]]
 
-### Topics** in Learning**
+## Topics in Learning
 
  
 
-### [[Areas of Study]]
+## [[Areas of Study]]
 
 -   [[Cognitive Load Theory]]
 
-### Additional Resources
+## Additional Resources
 
 -   [[Websites]]
     -   [[Wikipedia]]

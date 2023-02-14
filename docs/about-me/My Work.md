@@ -9,7 +9,7 @@ Every position I've ever held professionally has been a continuous
 learning experience. I treasure each of the lessons I've had the
 opportunity to learn from these various roles.
 
-### Information Specialist
+## Information Specialist
 
 **Organization: **ARDX (A. Reddix & Associates) in Norfolk, VA   
 **Dates: **January 2016 to October 2016 (Promoted Internally)
@@ -20,7 +20,7 @@ In this role I gained experience with:
 -   Microsoft Office Suite (Especially Excel)
 -   Some technical inner workings of the US Healthcare system
 
-### HRIS Analyst
+## HRIS Analyst
 
 **Organization:** ARDX (A. Reddix & Associates) in Norfolk, VA   
 **Dates:** October 2016 to Present
@@ -35,7 +35,7 @@ In this role I gained experience with:
 -   Project Management and Process Improvement frameworks 
 -   Business Process Analysis and Business Process Automation
 
-### Teacher's Assistant (Ethics and Systematic Theology)
+## Teacher's Assistant (Ethics and Systematic Theology)
 
 **Organization:** Bethlehem College & Seminary (BCS) in Minneapolis,
 MN  
@@ -47,7 +47,7 @@ In this role I gained experience with:
     writing
 -   Academic administration and logistics
 
-### Pastoral Intern (Truth on Fire)
+## Pastoral Intern (Truth on Fire)
 
 **Organization: **Bethlehem Baptist Church (BBC), South Campus in
 Minneapolis, MN  
@@ -61,7 +61,7 @@ In this role I gained experience with:
 -   Teaching Adult Sunday School 
 -   Facilitating theological discussions
 
-### Operations Specialist—HR and Communications
+## Operations Specialist—HR and Communications
 
 **Organization: **Training Leaders International (TLI) in Minneapolis,
 MN  

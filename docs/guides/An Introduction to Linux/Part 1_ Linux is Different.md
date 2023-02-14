@@ -8,7 +8,7 @@ Perhaps the most important thing to realize about Linux as you're
 getting started learning it is that Linux is *very different* from most
 other operating systems in the world.
 
-### Everybody Makes Linux Together
+## Everybody Makes Linux Together
 
 Unlike Mac or Windows, there is not one single company that owns and
 develops Linux. Even the man who first invented Linux—a Finnish-American
@@ -49,7 +49,7 @@ That makes Linux different in these ways:
     **there are** ***lots*** **of different versions of Linux**, all
     mostly the same but with tweaks.
 
-### Linux Has a History
+## Linux Has a History
 
 Linux was first released in 1991. But the ideas that Linux is based on
 trace back all the way to very early computer research done in the
@@ -69,7 +69,7 @@ All this makes Linux different in these ways:
     things by command prompt** rather than through a Graphical User
     Interface (GUI).
 
-### Little Legos vs Big Bricks
+## Little Legos vs Big Bricks
 
 *What is a "program"?* Linux answers this question very differently from
 other operating systems like Windows or Mac OS.
@@ -105,7 +105,7 @@ All this makes Linux different in these ways:
     updates on Mac or Windows machines.
 -    
 
-###  Distros, Terminal Emulators, and Desktop Environments—Oh My!
+##  Distros, Terminal Emulators, and Desktop Environments—Oh My!
 
 The biggest thing that makes Linux different is what it feels like to
 use. 

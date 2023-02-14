@@ -4,18 +4,18 @@
 
 # Reading
 
-### What is **Reading?**
+## What is Reading?
 
  
 
-### **Reading **[[Concepts]]
+## Reading [[Concepts]]
 
  
 
-### Topics** in Reading**
+## Topics in Reading
 
  
 
-### Additional Resources
+## Additional Resources
 
--   [[How to Read a Book (Book)]]
+-   [[How to Read a Book]]

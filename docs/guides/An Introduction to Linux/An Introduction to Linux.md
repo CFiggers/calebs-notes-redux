@@ -5,4 +5,4 @@
 
 For an answer to the question, "What is Linux?" see [[Linux]].
 
-### Why Learn Linux?
+## Why Learn Linux?

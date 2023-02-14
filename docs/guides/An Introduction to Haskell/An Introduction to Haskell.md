@@ -6,4 +6,4 @@
 For an answer to the question, "What is Haskell?"
 see [[Haskell]].
 
-### Why Learn Haskell?
+## Why Learn Haskell?

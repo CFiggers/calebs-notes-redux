@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const wikilinks = require('remark-wiki-link');
 const findMD = require("./src/utils/find-markdown")
 
-const mdMap_docs = findMD.makeMDMap(["./docs"])
+const mdMap_docs = findMD.makeMDMap(["./docs", "./blog"])
 
 function makeResolver (mdmap) {
   

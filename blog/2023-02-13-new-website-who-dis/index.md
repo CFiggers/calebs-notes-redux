@@ -1,5 +1,6 @@
 ---
 slug: new-website-who-dis
+prefix: blog/
 title: New Website, Who Dis?
 tags: [meta, project]
 ---

@@ -6,7 +6,7 @@
 For an answer to the question, "What is Category Theory?"
 see [[Category Theory]].
 
-### Why Learn Category Theory?
+## Why Learn Category Theory?
 
  
 

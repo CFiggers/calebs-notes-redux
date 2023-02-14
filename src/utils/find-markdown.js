@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const fm = require('front-matter');
 
 // Adapted from https://gist.github.com/codeguy/6684588
 function generateSlug(str) {
@@ -26,11 +27,15 @@ function readFiles(dirPath, arrayOfFiles) {
 
     arrayOfFiles = arrayOfFiles || []
 
-    files.forEach(function (file) {
+    files.forEach((file) => {
         if (fs.statSync(dirPath + "/" + file).isDirectory()) {
             arrayOfFiles = readFiles(dirPath + "/" + file, arrayOfFiles)
         } else {
-            arrayOfFiles.push(path.join(dirPath, "/", file))
+            // const checkIndexfn = (n) => {n.name === "index" 
+            //                              ? ""
+            //                              : "/", n.base}
+            arrayOfFiles.push(path.join(dirPath, // checkIndexfn(path.parse(file)
+                                        file))
         }
     })
 
@@ -54,13 +59,21 @@ function makeMDMap(dirPath) {
         .map((filename) => {
             let parsedFileName = path.parse(filename)
 
-            let slug = generateSlug(parsedFileName.name);
-
+            
             relativePath = "./" + filename
-
+            
             let rawFile = fs.readFileSync(relativePath, "utf-8");
-
+            let frontMatter = fm(rawFile);
+            
             var parentDir = parsedFileName.dir.split(path.sep).pop()
+            
+            let slug = frontMatter.attributes.slug || generateSlug(parsedFileName.name)
+            let isBlog = filename.split(path.sep).includes("blog")
+
+            if (isBlog) {
+                parsedFileName.dir = "blog"
+                parsedFileName.name = slug
+            }
 
             return [slug, {
                 filename: parsedFileName.name,

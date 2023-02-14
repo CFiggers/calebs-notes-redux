@@ -44,7 +44,7 @@ The shocking resolution to this quandary is "Yes!"—but not in a way anyone exp
 
 ## The Solution: Jesus
 
-[[Jesus Christ]] was a human man who lived 2,000 years ago in Israel. He was (and is) [[God The Son|God's own Son]], who is himself [[God]]. [[God The Father|God The Father]] sent him from [[Heaven]] to make a way for Sinners (that's us) to be [[Salvation|saved]] from [[Sin]] and [[Death]].
+[[Jesus Christ]] was a human man who lived 2,000 years ago in Israel. He was (and is) [[God The Son|God's own Son]], who is himself [[God]]. [[God The Father]] sent him from [[Heaven]] to make a way for Sinners (that's us) to be [[Salvation|saved]] from [[Sin]] and [[Death]].
 
 [[The Bible]] teaches that [[Jesus Christ|Jesus]] took full punishment for [[Sin]] on himself to satisfy [[God]]'s [[Justice]]. And he lived a perfect, [[Sin]]-less life to fulfill the righteousness that we failed to live up to. He [[The Crucifixion|died on a Roman cross]], betrayed by his own people, naked, ashamed, and alone.
 
