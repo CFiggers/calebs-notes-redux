@@ -4,6 +4,6 @@
 
 import DocCardList from '@theme/DocCardList';
 
-# God The Son
+# History
 
 <DocCardList />

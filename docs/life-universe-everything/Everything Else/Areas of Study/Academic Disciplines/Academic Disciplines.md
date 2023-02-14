@@ -2,6 +2,8 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Academic Disciplines
 
 -   [[Academic Philosophy]]
@@ -20,3 +22,5 @@
 -   [[Physics]]
 -   [[Politics]]
 -   [[Rhetoric]]
+
+<DocCardList />

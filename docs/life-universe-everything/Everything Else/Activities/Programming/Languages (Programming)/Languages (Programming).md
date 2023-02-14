@@ -4,6 +4,6 @@
 
 import DocCardList from '@theme/DocCardList';
 
-# God The Son
+# Languages (Programming)
 
 <DocCardList />

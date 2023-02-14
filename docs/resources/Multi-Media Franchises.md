@@ -1,5 +1,0 @@
----
-
----
-
-# Multi-Media Franchises

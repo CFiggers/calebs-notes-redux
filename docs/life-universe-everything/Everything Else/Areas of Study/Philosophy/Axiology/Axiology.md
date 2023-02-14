@@ -2,9 +2,11 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Axiology
 
-### **What is Axiology?**
+## **What is Axiology?**
 
 The word "**Axiology**" comes
 from [[Greek]]:
@@ -24,16 +26,16 @@ Broadly, **Axiology** has two major branches:
     The study of beauty in nature and art (i.e. Desirable and
     Undesirable)
 
-### **Axiology **[[Concepts]]
+## **Axiology **[[Concepts]]
 
 -   [[Beauty]]
 -   [[The Good]]
 
-### Topics** in Axiology**
+## Topics** in Axiology**
 
  
 
-### Related Topics in Other Fields
+## Related Topics in Other Fields
 
 Positions held or rejected under **Axiology** can affect the following
 topics
@@ -45,8 +47,10 @@ in [[Applied Philosophy]]:
 -   [[Aesthetics]]
     -   [[Philosophy of Art]]
 
-### **Areas of Study**
+## **Areas of Study**
 
  
 
-### **Additional Resources**
+## **Additional Resources**
+
+<DocCardList />

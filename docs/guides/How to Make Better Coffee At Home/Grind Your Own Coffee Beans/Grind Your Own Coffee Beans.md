@@ -4,8 +4,6 @@
 
 # Grind Your Own Coffee Beans
 
-Previous: [[Get Good Coffee]]
-
 ### **Why grind my own coffee beans?**
 
 Coffee beans have two types of "flavorful stuff" in them: tasty stuff
@@ -33,5 +31,3 @@ to grind the beans until right before you plan to brew them.
 
 -   [[How do I grind coffee beans myself?]]
 -   [[What kinds of grinders are there?]]
-
-Next: [[Measure Your Coffee by Weight]]

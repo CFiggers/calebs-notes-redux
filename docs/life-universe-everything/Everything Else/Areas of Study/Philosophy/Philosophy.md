@@ -2,9 +2,11 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Philosophy
 
-### **What is Philosophy?**
+## **What is Philosophy?**
 
 **Philosophy** is the principled investigation of what can be perceived
 and understood about [[The Universe]],
@@ -62,10 +64,12 @@ others. But some lines of influence (like that
 of [[Metaphilosophy]] on [[Epistemology]],
 etc.) are clearer—hence the darker lines.
 
-### Philosophy [[Concepts]]
+## Philosophy [[Concepts]]
 
 -   [[Wisdom]]
 
-### Topics in Philosophy
+## Topics in Philosophy
 
 -   [[On Learning Philosophy]]
+
+<DocCardList />

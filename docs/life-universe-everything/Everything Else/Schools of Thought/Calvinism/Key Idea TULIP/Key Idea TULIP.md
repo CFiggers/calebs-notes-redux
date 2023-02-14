@@ -2,9 +2,11 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Key Idea: TULIP
 
-### What is **TULIP?**
+## What is **TULIP?**
 
 -   [[Total Depravity]]
 -   [[Unconditional Election]]
@@ -14,8 +16,11 @@
 
 See also: [BACON](https://calebsnotes.netlify.app/bacon).
 
-### **TULIP Concepts**
+## **TULIP Concepts**
 
  
 
-### **Topics in TULIP**
+## **Topics in TULIP**
+
+
+<DocCardList />

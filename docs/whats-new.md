@@ -4,10 +4,11 @@ sidebar_position: 2
 
 # What's New
 
-### Update Log
+## Update Log
 
 | Date       | Link / Description |
 |------------|--------------------|
+| 2023-02-13 | Wrote [[New Website, Who Dis?]] about migrating to custom [[Docusaurus]] site |
 | 2022-08-28 | Began migrating from Brick.do to custom Hugo site hosted on Netlify |
 | 2022-01-09 | [Guides](/guides) / [[An Introduction to AutoHotkey]] / [[Part 2_ Key Rebinding]] <br /><br /> Initial (partial) draft of part two is now complete. Need to add one code snippet and one illustration breaking down the syntax in that snippet.|
 | 2022-01-08 | [Guides](/guides) / [[An Introduction to AutoHotkey]] / [[Part 1_ Getting AutoHotkey]] <br /><br />Initial rough first draft of part one is now complete. Most sections are still in brain-dump bullet point format and there are no screenshots yet. But Part 1 should now be more-or-less usable in its current form. |

@@ -2,9 +2,11 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Applied Philosophy
 
-### **What is Applied Philosophy?**
+## **What is Applied Philosophy?**
 
 **Applied Philosophy** uses positions held or rejected under various
 branches
@@ -24,16 +26,19 @@ of [[The Sciences]], [[Academic Disciplines]],
 and
 other [[Human Enterprise]].
 
-### Applied Philosophy [[Concepts]]
+## Applied Philosophy [[Concepts]]
 
 -   [[Theory]] vs [[Practice]]
 
-### Topics in Applied Philosophy
+## Topics in Applied Philosophy
 
  
 
-### Areas of Study
+## Areas of Study
 
  
 
-### Additional Resources
+## Additional Resources
+
+
+<DocCardList />

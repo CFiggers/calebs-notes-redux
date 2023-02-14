@@ -2,6 +2,8 @@
 
 ---
 
+import DocCardList from '@theme/DocCardList';
+
 # Programming
 
 ## What is Programming?
@@ -34,3 +36,5 @@ I have *some* experience with these [[Languages (Programming)|Programming Langua
 ## Topics in Programming
 
 -   [[Programming Teaches Rigorous Thought]]
+
+<DocCardList />
