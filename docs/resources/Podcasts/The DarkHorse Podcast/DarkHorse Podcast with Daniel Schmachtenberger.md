@@ -4,8 +4,8 @@
 
 # DarkHorse Podcast with Daniel Schmachtenberger & Bret Weinstein
 
-<iframe src="https://www.youtube.com/embed/YPJug0s2u4w" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
+<!-- <iframe src="https://www.youtube.com/embed/YPJug0s2u4w" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe> -->
 
 ## Intro and Context
 
