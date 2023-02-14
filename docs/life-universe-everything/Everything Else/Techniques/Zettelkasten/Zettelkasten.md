@@ -6,20 +6,20 @@ import DocCardList from '@theme/DocCardList';
 
 # Zettlekasten
 
-### What is **Zettlekasten?**
+## What is Zettelkasten?
 
  
 
-### **Zettlekasten **[[Concepts]]
+## Zettelkasten [[Concepts]]
 
 -   [[Fleeting Notes]]
 -   [[Literature Notes]]
 -   [[Evergreen Notes]]
 
-### Topics** in Zettlekasten**
+## Topics in Zettelkasten
 
  
 
-### **Additional Resources**
+## Additional Resources
 
  <DocCardList />
