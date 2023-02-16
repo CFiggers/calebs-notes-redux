@@ -17,27 +17,27 @@ This personal website is a spot for me to share random stuff that I'm thinking a
 
 The sidebar (👈) has some top-level pages to help me organize this mess.
 
--   [[What's New]] is an inconsistently-updated Changelog of this website to help document what I've been devoting attention to recently.
--   Learn about me under [[About Me]].
--   The biggest section of this "Notes" area is [[life-universe-everything|Life, the Universe, and Everything]], an exercise in [[Thinking in Public]] about... everything I can. You might call it a [[Digital Gardening|digital garden]]. Almost all of the pages in there are placeholders with no content (yet).
--   [[things-made|Things I've Made]] serves as a convenient place to link to when I make stuff other places (like [[GitHub]] or Twitter).
--   Finally, [[resources|Resource Library]] is for sharing recommended books, YouTube videos, podcast episodes, and other resources that I've benefitted from (and some of them have commentary as well).
+- [[What's New]] is an inconsistently-updated Changelog of this website to help document what I've been devoting attention to recently.
+- Learn about me under [[About Me]].
+- The biggest section of this "Notes" area is [[life-universe-everything|Life, the Universe, and Everything]], an exercise in [[Thinking in Public]] about... everything I can. You might call it a [[Digital Gardening|digital garden]]. Almost all of the pages in there are placeholders with no content (yet).
+- [[things-made|Things I've Made]] serves as a convenient place to link to when I make stuff other places (like [GitHub](https://github.com/CFiggers) or [Twitter](https://twitter.com/CalebFiggers)).
+- Finally, [[resources|Resource Library]] is for sharing recommended books, YouTube videos, podcast episodes, and other resources that I've benefitted from (and some of them have commentary as well).
 
 ## New here?
 
 Here's some stuff I like to [[Thinking|think]] and [[Writing|write]] about to get you started exploring:
 
--   [[My Faith]] (namely, [[Protestantism|Protestant]] [[Evangelicalism|Evangelical]] Reformed Baptist [[Christianity]])
--   [[Category Theory]]
--   [[Programming]] and [[Languages (Programming)|Programming Languages]]
-    -   [[AutoHotkey]]
-    -   [[Clojure]]
-    -   [[Haskell]]
--   [[Personal Knowledge Management]]
-    -   [[Roam Research]]
--   [[Theology]]
--   [[Philosophy]]
--   [[Surviving Seminary]]
+- [[My Faith]] (namely, [[Protestantism|Protestant]] [[Evangelicalism|Evangelical]] Reformed Baptist [[Christianity]])
+- [[Category Theory]]
+- [[Programming]] and [[Languages (Programming)|Programming Languages]]
+    - [[AutoHotkey]]
+    - [[Clojure]]
+    - [[Haskell]]
+    - [[Janet]]
+- [[Personal Knowledge Management]]
+    - [[Roam Research]]
+- [[Theology]]
+- [[Philosophy]]
 
 Here's some [[My Hobbies|hobbies]] and some [[resources|media]] that I enjoy.
 
@@ -45,8 +45,8 @@ Here's some [[My Hobbies|hobbies]] and some [[resources|media]] that I enjoy.
 
 - [ ] Why I love [[AutoHotkey]] so much, and how I use it together with [[Roam Research]] and [[VS Code]] for my [[Personal Knowledge Management]] workflow
 - [ ] What's so troublesome about [[Platonism]] as a Christian [[Metaphysics|Metaphysic]] and why I prefer (and think [[The Bible]] is more consistent with) something more like Hebraic Covenantalism
-- [ ] Why EVERYONE should learn basic [[Category Theory]] and therefore why we should teach it in schools 
-- [ ] Why anyone who aspires to clear thinking, reasoning, and communicating should learn [[Haskell]] (especially Christian [[Theologians]] and students of the [[Divinities]]
+- [ ] Why EVERYONE should learn basic [[Category Theory]] and, therefore, why I think we should teach it to high school students instead of [[Algebra]]
+- [ ] Why anyone who aspires to think, reason, and communicate clearly should learn [[Haskell]] (especially Christian [[Theologians]] and students of the [[Divinities]]
 - [ ] Listening carefully to [[Daniel Schmachtenberger]] on a variety of topics:
     - Being, Doing, Becoming
     - [[Compassion]] and [[Compersion]] vs [[Sadism]] and [[Envy]] 
