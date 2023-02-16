@@ -9,7 +9,7 @@ Hi there! I'm [[About Me|Caleb]] 👋
 
 This personal website is a spot for me to share random stuff that I'm thinking about or working on. It has three major sections:
 
-- [Notes](/): That's this section, the one you're reading right now. Roughly speaking, a Knowledge Garden.
+- [Notes](/): That's this section, the one you're reading right now. Roughly speaking, these notes are a [Digital Garden](https://maggieappleton.com/garden-history).
 - [Guides](/guides): How-to's and Beginner Introductions to a few of the tools and technologies I use a lot.
 - [Blog](/blog): Time-bound stuff—e.g., ideas I'm contemplating, dev logs for projects I'm working on, and problems I'm in the middle of solving. 
 
@@ -19,7 +19,7 @@ The sidebar (👈) has some top-level pages to help me organize this mess.
 
 - [[What's New]] is an inconsistently-updated Changelog of this website to help document what I've been devoting attention to recently.
 - Learn about me under [[About Me]].
-- The biggest section of this "Notes" area is [[life-universe-everything|Life, the Universe, and Everything]], an exercise in [[Thinking in Public]] about... everything I can. You might call it a [[Digital Gardening|digital garden]]. Almost all of the pages in there are placeholders with no content (yet).
+- The biggest section of this "Notes" area is [[life-universe-everything|Life, the Universe, and Everything]], an exercise in [[Thinking in Public]] about... everything I can. Each page is a short essay about a topic. Almost all of the pages are works-in-progress, or placeholders with no content (yet).
 - [[things-made|Things I've Made]] serves as a convenient place to link to when I make stuff other places (like [GitHub](https://github.com/CFiggers) or [Twitter](https://twitter.com/CalebFiggers)).
 - Finally, [[resources|Resource Library]] is for sharing recommended books, YouTube videos, podcast episodes, and other resources that I've benefitted from (and some of them have commentary as well).
 
