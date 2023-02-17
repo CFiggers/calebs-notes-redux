@@ -1,6 +1,9 @@
 ---
+title: Caleb's Notes
 sidebar_position: 1
 slug: /
+description: Hi there! I'm Caleb. 👋 These are my notes.
+keywords: [notes]
 ---
 
 # Caleb's Notes

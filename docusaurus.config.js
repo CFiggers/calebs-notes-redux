@@ -117,6 +117,7 @@ const config = {
           autoCollapseCategories: true,
         },
       },
+      metadata: [{"og:type": "article"}],
       colorMode: {
         defaultMode: 'light',
         disableSwitch: false,
