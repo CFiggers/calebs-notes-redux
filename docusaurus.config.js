@@ -110,7 +110,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/calebsnotes-social-card.png',
       docs: {
         sidebar: {
           hideable: true,
