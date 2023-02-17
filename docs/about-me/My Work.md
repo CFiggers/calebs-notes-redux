@@ -4,10 +4,7 @@
 
 # My Work
 
-I've been unspeakably blessed in my life to seldomly lack paying work.
-Every position I've ever held professionally has been a continuous
-learning experience. I treasure each of the lessons I've had the
-opportunity to learn from these various roles.
+I've been unspeakably blessed in my life to seldomly lack paying work. Every position I've ever held professionally has been a continuous learning experience. I treasure each of the lessons I've had the opportunity to learn from these various roles.
 
 ## Information Specialist
 
@@ -23,7 +20,7 @@ In this role I gained experience with:
 ## HRIS Analyst
 
 **Organization:** ARDX (A. Reddix & Associates) in Norfolk, VA   
-**Dates:** October 2016 to Present
+**Dates:** October 2016 to October 2022
 
 In this role I gained experience with:
 
@@ -37,35 +34,30 @@ In this role I gained experience with:
 
 ## Teacher's Assistant (Ethics and Systematic Theology)
 
-**Organization:** Bethlehem College & Seminary (BCS) in Minneapolis,
-MN  
-**Dates: **
+**Organization:** Bethlehem College & Seminary (BCS) in Minneapolis, MN  
+**Dates: ** 
 
 In this role I gained experience with:
 
--   Giving constructive feedback on and grading Master's-level academic
-    writing
+-   Giving constructive feedback on and grading Master's-level academic writing
 -   Academic administration and logistics
 
 ## Pastoral Intern (Truth on Fire)
 
-**Organization: **Bethlehem Baptist Church (BBC), South Campus in
-Minneapolis, MN  
+**Organization: **Bethlehem Baptist Church (BBC), South Campus in Minneapolis, MN  
 **Dates: **
 
 In this role I gained experience with:
 
--   Church program design and implementation (the Truth on Fire training
-    program)
+-   Church program design and implementation (the Truth on Fire training program)
 -   Adult layperson-oriented theological education 
 -   Teaching Adult Sunday School 
 -   Facilitating theological discussions
 
 ## Operations Specialist—HR and Communications
 
-**Organization: **Training Leaders International (TLI) in Minneapolis,
-MN  
-**Dates: **May 2021 to Present
+**Organization: **Training Leaders International (TLI) in Minneapolis, MN  
+**Dates: **May 2021 to October 2022
 
 In this role I gained experience with:
 
@@ -73,3 +65,22 @@ In this role I gained experience with:
 -   Non-profit business operations
 -   Organizational strategic thinking and planning
 -   Non-profit organizational communications
+
+## Pastoral Intern (Good News Church of Eagan)
+
+**Organization: **Good News Church of Eagan (GNCE) in Minneapolis, MN  
+**Dates: **
+
+In this role I gained experience with:
+
+-   Elder-level Pastoral Ministry (Preaching, Teaching, Ministry Leadership)
+-   Church Leadership
+
+## Vendor Funds Systems Analyst
+
+**Organization: **Ferguson Enterprises, headquartered in Newport News, VA (Remote)
+**Dates: **October 2022 to Present
+
+In this role I gained experience with:
+
+-   Enterprise-scale Information Systems technology and business practices

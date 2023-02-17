@@ -1,10 +1,14 @@
 ---
-
+last_updated: 2023-02-14
 ---
 
 # This Website
 
-This website is published using [Brick.do](https://brick.do), "a super
+This website is built with [[Docusaurus]] and hosted on Netlify. Everything below this point is outdated.
+
+<hr />
+
+published using [Brick.do](https://brick.do), "a super
 lightweight platform for creating small sites."
 
 I've customized it a bit using the built-in customization tools in
