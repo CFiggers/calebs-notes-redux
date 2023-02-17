@@ -3,6 +3,7 @@ slug: new-website-who-dis
 prefix: blog/
 title: New Website, Who Dis?
 tags: [meta, project]
+last_updated: 2023-02-18
 ---
 
 This is now the *third* iteration of a "Caleb's Notes" website to see the light of day. To celebrate, here's a brief summary of this lovable train wreck's messy history.
@@ -35,9 +36,15 @@ What finally put the last nail in the coffin of the Brick.do site is the slow de
 
 So, the "Caleb's Notes" website is dead, long live the "Caleb's Notes" website!
 
-This now the third version of a personal website. It is implemented on top of Facebook's [[Docusaurus]] static website generator and hosted, again, on Netlify. 
+This (the page you're reading) is now the third version of a personal website. It is implemented on top of Facebook's [[Docusaurus]] static website generator and hosted, again, on Netlify. As of its initial publication, it looks like this: 
 
-Docusaurus combines a number of benefits that I liked from the two previous versions (Gatsby's Markdown content editing and `[[Wiki Link]]` support, Brick.do's structured sidebar navigation tree). It also addresses a number of the pain points that turned me off from the previous two sites (Gatsby's slow iteration time, Brick.do's limited customization and hosted platform lock-in). 
+![Caleb's Notes V3](./calebsnotes-3.jpg)
+
+(*Aww* yeah. Native dark mode, *baby.*)
+
+Docusaurus combines a number of benefits that I liked from the two previous versions (Gatsby's Markdown content editing and version control using Git, Brick.do's structured sidebar navigation tree and more polished interface). But it also addresses a number of the pain points that turned me off from the previous two sites (Gatsby's slow iteration time, Brick.do's limited customization and hosted platform lock-in). 
+
+I've made a couple of customizations already beyond stock the stock Docusaurus affordances—which is *exactly* what Docusaurus wants you to do. In particular, I've added (and written a tiny bit of glue code for) some additional plugins to add `[[Wiki Link]]` support (via [landakram/remark-wiki-link](https://github.com/landakram/remark-wiki-link)) and the searchbar at the top of this page (via [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)). I might write stand-alone blog posts about getting each of those working.
 
 I don't know whether or how long I'll stick with this platform, or even if I'll finish making the updates that I feel are necessary before I publish this version for public consumption. But, as for this exact moment, I've really enjoyed solving the handful of problems that I have so far in order to have a site that I like the look and feel of (both in the finished product and in the editing experience on the back end).
 
