@@ -1,5 +1,9 @@
 ---
-
+slug: i-love-janet-the-language
+prefix: blog/
+title: I Love Janet (the Language)
+tags: [programming, janet]
+last_updated: 2023-02-18
 ---
 
 # I Love Janet (the Language)
@@ -10,9 +14,9 @@ I love [the Janet programming language](https://www.janet-lang.org). Here's some
 
 ## What's [[Janet]]?
 
-[[Janet]] is a super small, [[Dynamic Typing|dynamically typed]], [[Programming Paradigms|multi-paradigm]], [[Clojure]]-inspired, modern [[Lisp]] implemented in [[C (language)|C]]. The programs you write in Janet can either run as interpreted scripts executed by the `Janet` executable, or compile to stand-alone native executables that don't need `Janet` to run. That makes it a great language for system scripting (as an alternative to Bash or other shell scripts), rapid prototyping, or even embedding inside of other [[C (language)|C]] or [[C++ Language|C++]] programs. Even though the entire language is *extremely* small—the entire thing is less than 1MB in size)—it has a number of cool above-and-beyond features, like native support for multi-threaded programs, networking niceties, cross-platform OS interop, and a powerful Regex alternative called PEG (which stands for Parsing Expression Grammar). 
+[[Janet]] is a super small, [[Dynamic Typing|dynamically typed]], [[Programming Paradigms|multi-paradigm]], [[Clojure]]-inspired, modern [[Lisp]] implemented in [[C (language)|C]]. The programs you write in Janet can either run as interpreted scripts executed by the `Janet` executable, or compile to stand-alone native executables that don't need `Janet` to run. That makes it a great language for system scripting (as an alternative to Bash or other shell scripts), rapid prototyping, or even embedding inside of other [[C (language)|C]] or [[C++ Language|C++]] programs. Even though the language's footprint is *extremely* small—the entire thing, including core library, interpreter, compiler, assembler, and included modules, is less than 1MB in size!)—it comes out of the box with a number of cool above-and-beyond features, like native support for multi-threaded programs, networking niceties, cross-platform OS interop, and a powerful Regex alternative called PEG (which stands for [Parsing Expression Grammar](https://en.wikipedia.org/wiki/Parsing_expression_grammar)). 
 
-[[Janet]] is a great fit for my uses (namely, toy programs, hobby projects, and general tinkering just to learn how [[programming]] works). 
+[[Janet]] is a great fit for my uses—which are, more specifically, basic toy programs, personal hobby projects, and general tinkering just to learn how [[programming]] works. 
 
 Here's a sample of [[Janet]]'s syntax: 
 
