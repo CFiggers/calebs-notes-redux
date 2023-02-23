@@ -12,6 +12,8 @@ Every now and then you just need to compare a dozen almost-identical iterations 
 
 <!--truncate-->
 
+[WIP]
+
 - The Leetcode problem 
 - Racing methodology 
 	- `spork/test`'s `timeit` function 
