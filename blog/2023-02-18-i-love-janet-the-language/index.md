@@ -20,7 +20,7 @@ I love [the Janet programming language](https://www.janet-lang.org). Here's some
 
 Here's a sample of [[Janet]]'s syntax: 
 
-```janet
+```janet showLineNumbers
 # Janet Syntax Sample
 
 (+ 1 1) # => 2
@@ -50,7 +50,7 @@ My first contact with [[Programming]] was [[Python|Python 2.x]], which I tried t
 
 A few decades (oof) later, I stumbled into learning [[Haskell]] as an accident of learning about [[Formal Logic]] and [[Lambda Calculus]]. I really enjoyed programming in [[Haskell]] (I still have [a little bit of Haskell](https://github.com/CFiggers/quad-ci) on [my GitHub](https://github.com/CFiggers)), and learning [[Haskell]] led me to discover [[Category Theory]], which I'm still enthusiastically learning about to this day. But, while [[Monad|Monads]] and [[Monoid|Monoids]] are great fun to think about and (partially) figure out in the abstract, needing to reason around them to accomplish even the most basic programming tasks (like, oh I don't know, printing a string to the terminal) made [[Haskell]] a much sharper knife than I really needed for tinkering around with toy programs and hobby projects.
 
-```haskell
+```haskell showLineNumbers
 -- Haskell Syntax Sample
 
 1 + 1 -- => 2
@@ -70,7 +70,7 @@ main = putStrLn "Hello, World!"
 
 That's when I got into [[Clojure]]. [[Clojure]] and [[Haskell]] are often mentioned in the same breath because they are both emphatically [[Functional Programming Paradigm|Functional]] languages, both are considered weird and unorthodox in comparison with most mainstream [[Languages (Programming)|languages]], and both have vocal support from their niche userbases. That said, the differences between them are profound: [[Haskell]] is first and foremost a mathematics-inspire language by and for Computer Science academics to explore the far reaches of Programming Language Theory, while [[Clojure]] started off as [[Rich Hickey|one salty Java programmer]]'s pet project and has blossomed over the years into a stable, no-nonsense tool for world-weary old timers to just *get things done.*
 
-```clojure
+```clojure showLineNumbers
 ; Clojure Syntax Sample
 
 (+ 1 1) ; => 2
