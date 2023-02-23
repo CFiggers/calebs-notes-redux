@@ -2,7 +2,7 @@
 slug: janet-vs-code-and-structural-programming
 prefix: blog/
 title: Janet, VS Code, and Structural Programming
-tags: [programming, janet, vs code, peoject]
+tags: [programming, janet, vs code, project]
 last_updated: 2023-02-20
 ---
 

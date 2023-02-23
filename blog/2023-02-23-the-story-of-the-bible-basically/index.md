@@ -12,6 +12,8 @@ Here's a way to tightly summarize the story of the whole [[The Bible|Bible]]:
 
 ![The Story of the Bible Basically](./The%20Story%20of%20the%20Bible%20Basically_2023-02-23.png)
 
+[WIP]
+
 <!--truncate-->
 
   1. The Beginning (Everything is Great)
