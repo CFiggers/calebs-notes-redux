@@ -8,14 +8,18 @@ last_updated: 2023-02-23
 
 # The Story of the Bible, Basically
 
+Here's a way to tightly summarize the story of the whole [[The Bible|Bible]]:
+
 ![The Story of the Bible Basically](./The%20Story%20of%20the%20Bible%20Basically_2023-02-23.png)
 
-1) The Beginning (Everything is Great)
-2) Right After the Beginning (Everything Goes Wrong)
-3) The Long Story of Jesus Coming (God Keeps His Promises)
-4) He's Finally Here!!! 
-5) Now We Can Be Right With God
-6) The End (Everything is Great Again)
+<!--truncate-->
+
+  1. The Beginning (Everything is Great)
+  2. Right After the Beginning (Everything Goes Wrong)
+  3. The Long Story of Jesus Coming (God Keeps His Promises)
+  4. He's Finally Here!!! 
+  5. Now We Can Be Right With God
+  6. The End (Everything is Great Again)
 
 ## 1) The Beginning (Everything is Great)
 
