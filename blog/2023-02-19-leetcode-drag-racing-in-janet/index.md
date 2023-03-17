@@ -10,9 +10,9 @@ last_updated: 2023-02-20
 
 Every now and then you just need to compare a dozen almost-identical iterations of the solution to a basic toy programming problem to figure out what's faster or slower in your language of choice.
 
-<!--truncate-->
-
 [WIP]
+
+<!--truncate-->
 
 - The Leetcode problem 
 - Racing methodology 
