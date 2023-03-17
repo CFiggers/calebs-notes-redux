@@ -9,9 +9,9 @@ last_updated: 2023-03-18
 
 # Parsing JSON in 13 Lines of Janet
 
-Here's how you can use [Janet](https://www.janet-lang.org)'s built-in [Parsing Expression Grammar (PEG) module](https://janet-lang.org/docs/peg.html) to parse JSON into an [[Abstract Syntax Tree]] in only 13 lines of code (one of which is just the "define" keyword and symbol name):
+Here's how you can use [Janet](https://www.janet-lang.org)'s built-in [Parsing Expression Grammar (PEG) module](https://janet-lang.org/docs/peg.html) to define a grammar capable of parsing valid JSON into an [[Abstract Syntax Tree]] in only 13 lines of code (one of which is just the "define" keyword and a symbol name):
 
-```janet
+```janet showLineNumbers
 (def json-parser
   ~{:null (/ (<- "null") ,|[$ :null])
     :bool (/ (<- (+ "true" "false")) ,|[$ :bool])
@@ -33,43 +33,50 @@ Here's how you can use [Janet](https://www.janet-lang.org)'s built-in [Parsing E
 
 You would then use this grammar in an actual program like this:
 
-```janet
+```janet showLineNumbers
 (peg/match json-parser "{\"key\": \"value\"}")
 => @[(@{("key" :string) ("value" :string)} :object)]
 ```
 
-(NB: You'd probably also want to call `(peg/compile)` on the grammar object before using it a lot, because that will speed up the `(peg/match)` function considerably.)
+*(**NB**: You'd probably also want to call `(peg/compile)` on the grammar object before using it a lot, because that will speed up the `(peg/match)` function considerably.)*
 
 In what follows, I'll re-create this parsing grammar step-by-step from scratch as a follow-along introduction to Janet's [Parsing Expression Grammars](https://janet-lang.org/docs/peg.html). The best way to come along on this journey with me is to [[Part 1 Getting Janet|download and install Janet]], then create a project, pop open your favorite [[Text Editor]] and a Janet [[REPL]], and try everything yourself as you read along!
 
-## Parsing `null`s
+## Stuff to Know Up Front
 
 
-## Parsing Booleans
+
+## Recreating the `json-parser` Above
 
 
-## Parsing Numbers
+### Parsing `null`s
 
 
-## Parsing Strings
+### Parsing Booleans
 
 
-## Parsing Arrays
+### Parsing Numbers
 
 
-### Recursive Pattern Matching
+### Parsing Strings
 
 
-## Parsing Objects
+### Parsing Arrays
 
 
-## Misc Thoughts
+#### Recursive Pattern Matching
 
 
-## Testing Everything
+### Parsing Objects
 
 
-## Final Comments
+### Misc Thoughts
+
+
+### Testing Everything
+
+
+### Final Comments
 
 
 ## Conclusion: PEGs are *Awesome*
