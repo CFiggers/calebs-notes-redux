@@ -111,8 +111,12 @@ Hy unavoidably inherits a number of rough edges from Python.
     
 For another, since Python conventionally embraces OOP, Hy's **facilities for working with plain ol' data structures** are (IMHO) less refined than Janet's.
     For example, there is no `(update)` function for changing the values in dictionaries "in-place" by applying a function to whatever value is already there (Python dictionaries do have an `.update` method, but that works like Janet's `(merge)`, not `(update)`). 
-    Hy could do more to alleviate this (and, in fact, several of the functions I miss are provided in [Hyrule](https://hyrule.readthedocs.io/en/master/#), Hy's first-party expansion to the standard library). 
-    But at the moment, and in my as-yet still limited experience of using both, Janet is just stronger in this regard than Hy.
+    You can of course still do that *sort* of thing with `(setv (get data-structure key) ((fn [val] (do-thing val) (get data-structure key))))`... but *come on.* 
+    I mean just look at it. 
+    Wouldn't you rather `(update data-structure key |(do-thing $))`? 
+    Yeah, you *know* you would.
+    Hy could do more to alleviate this gap by providing additional Lisp-conventional functions and macros on top of Python (and, in fact, several of the functions I miss are provided in [Hyrule](https://hyrule.readthedocs.io/en/master/#), Hy's first-party expansion to the standard library). 
+    But at the moment, and in my as-yet still limited experience of using both, Janet is just stronger in this area than Hy.
     
 For a third, Python's approach to **dynamic typing** means you don't learn much about your Hy program (particularly, things that are wrong with it) **at compile time.** 
     Janet is much better in this regard. 
