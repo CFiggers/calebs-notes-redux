@@ -77,7 +77,6 @@ First, I love **[[Lisp]] syntax.**
         I like the way Lisp programs are *explicitly* just a hierarchical data structure.
     But this is one of the things that Lisp-haters *explicitly* despise, so I'm not expecting to win anyone over; it's just MY preference.
 
-
 Second, I love **[[Lisp]]-y editor tooling.**
     This is a follow-on feature enabled by Lisp's "parentheses everywhere" syntax.
     Because everything is an explicit nested tree, it's trivially easy for editors to hook into and rearrange Lisp code.
@@ -111,14 +110,13 @@ Hy unavoidably inherits a number of rough edges from Python.
     
 For another, since Python conventionally embraces OOP, Hy's **facilities for working with plain ol' data structures** are (IMHO) less refined than Janet's.
     For example, there is no `(update)` function for changing the values in dictionaries "in-place" by applying a function to whatever value is already there (Python dictionaries do have an `.update` method, but that works like Janet's `(merge)`, not `(update)`). 
-    You can of course still do that *sort* of thing with `(setv (get data-structure key) ((fn [val] (do-thing val) (get data-structure key))))`... but *come on.* 
-    I mean just look at it. 
+    You can of course still do that *sort* of thing with `(setv (get data-structure key) (do-thing (get data-structure key)))`... but *come on.* 
     Wouldn't you rather `(update data-structure key |(do-thing $))`? 
     Yeah, you *know* you would.
     Hy could do more to alleviate this gap by providing additional Lisp-conventional functions and macros on top of Python (and, in fact, several of the functions I miss are provided in [Hyrule](https://hyrule.readthedocs.io/en/master/#), Hy's first-party expansion to the standard library). 
     But at the moment, and in my as-yet still limited experience of using both, Janet is just stronger in this area than Hy.
     
-For a third, Python's approach to **dynamic typing** means you don't learn much about your Hy program (particularly, things that are wrong with it) **at compile time.** 
+For a third, and this is probably the most significant item on this list, Python's approach to **dynamic typing** means you don't learn much about your Hy program (particularly, things that are wrong with it) **at compile time.** 
     Janet is much better in this regard. 
         While Janet itself is also a dynamic language, compiling down to C—a statically-typed language—gives Janet FAR more compile-time insight than Hy has access to. 
         Janet will simply refuse to compile a function with a reference to an undefined symbol, for example. 
