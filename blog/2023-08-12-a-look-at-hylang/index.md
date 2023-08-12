@@ -42,7 +42,11 @@ In Hy, the majority of the time `(doc f)` just says, "This is a macro/function, 
 But this generally higher level of polish and consideration applies to a lot of corners of Janet's core library.
     Janet's `(loop)` and its cousins (`seq`, `tabseq`, and `generate`) are just fantastic core functions for iteration and list/table comprehensions (Hy's equivalents are less powerful and have less consistent syntax between them).
     
-And MAN I miss Janet's `;` (aka `(splice)`) when I'm writing Hy (they have an `unquote-splice` operator that looks like `~@[]`, similar to Janet's `,;[]`, but that only works inside of macros, as far as I can tell).
+And MAN I miss Janet's `;` (aka `(splice)`) when I'm writing Hy. 
+	To be fair to Hy, they do have "splat" operators—`#*` for iterables and `#**` for maps—that ostensibly do the same thing as Janet's `splice`.
+	But... and honestly I think this is probably on me, not Hy... I've struggled to get them to work properly.
+	In particular I've used `#*` in situations that I'm confident would have worked perfectly in Janet, but it only made Hy/Python's interpreter very angry with me.
+	(Hy also has an unquote-splice operator that looks like `~@[]` and works similar to Janet's `,;[],` but that's only for use inside of macros, as far as I can tell.)
 
 I could keep going for a long time here—the bottom line is, Janet's core functions are really great.
 
