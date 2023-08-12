@@ -26,19 +26,21 @@ If I had my choice, [[I Love Janet (The Language)|I'd much rather]] use [[Janet]
 The experience of hacking around with Hy has only increased my [[I Love Janet (The Language)|(already great) appreciation]] for [[Janet]]'s design and included batteries. 
     I haven't needed Janet's [Parsing Expression Grammars](https://janet-lang.org/docs/peg.html) so far (most of what I'm doing is UI automation) but whenever I eventually do, Hy doesn't have a PEG module built in the way Janet does. 
     Janet's event loop and fibers are absent from Hy, which would've been nice-to-have at least once so far. 
-    And, Hy has no analog whatsoever of Janet's first-party project manager [JPM](https://janet-lang.org/docs/jpm.html), and I have sorely missed it—so much so, I've started cobbling together my own messy rough equivalent using PowerShell scripts. 
+    And, Hy has no analog whatsoever of Janet's first-party project manager [JPM](https://janet-lang.org/docs/jpm.html), and I have sorely missed it—so much so, I've started cobbling together my own messy rough equivalent using [PowerShell](https://github.com/PowerShell/PowerShell) scripts. 
     But that obviously just isn't the same. 
 
 Plus, I'm finding out more and more how robust and nicely-designed Janet's core library is by comparison with Hy's. 
     A big difference between the two is `(doc)`.
-        In Janet, running `(doc f)` where `f` is any function gives a beautifully formatted, usually-short explanation of what the function's arguments are, what the expected behavior is, and (in the case of more involved functions/macros) what all the optional parameters are and do.
+        In Janet, running `(doc f)` where `f` is any function gives a beautifully formatted, usually-short-and-sweet explanation of the function's arguments, what the expected behavior is, and (in the case of more involved functions/macros) what all the optional parameters are and do.
         If you aren't sure what the name of a function is, `(doc s)` where `s` is any string will search the current environment for symbols matching that string.
         It even works on imports, if the designer of the imported module was thorough in giving docstrings to all their functions!
-    In Hy, the majority of the time `(doc f)` just says, "This is a macro/function, go read the actual docs if you want to know even the most basic things about it."
+    
+In Hy, the majority of the time `(doc f)` just says, "This is a macro/function, go read the actual docs if you want to know even the most basic things about it."
 
 ![Janet's doc function vs Hy's doc function](janet-let-vs-hy-let_2023-08-12.png)
 
-Janet's `(loop)` and its cousins (`seq`, `tabseq`, and `generate`) are just fantastic core functions for iteration and list/table comprehensions (Hy's equivalents are less powerful and have less consistent syntax between them).
+But this generally higher level of polish and consideration applies to a lot of corners of Janet's core library.
+    Janet's `(loop)` and its cousins (`seq`, `tabseq`, and `generate`) are just fantastic core functions for iteration and list/table comprehensions (Hy's equivalents are less powerful and have less consistent syntax between them).
     
 And MAN I miss Janet's `;` (aka `(splice)`) when I'm writing Hy (they have an `unquote-splice` operator that looks like `~@[]`, similar to Janet's `,;[]`, but that only works inside of macros, as far as I can tell).
 
@@ -90,7 +92,7 @@ But finally, I love **interacting with the code I write in a live REPL,** the ru
         It's trivially easy to just evaluate the *one expression* you're interested in, regardless of line breaks or shared space with other code, because every expression is explicitly delimited not by line breaks or semantic whitespace, but by the parentheses that surround it.
 
 Final Note: some people's love for a language lives or dies based on the ability to write first-class macros in that language.
-    I definitely appreciate the power of macros, but I have seldomly encountered situations in my own use where a macros has solved more problems than it has created (due entirely to my inexperience with them, but still).
+    I definitely appreciate the power of macros, but I have seldomly encountered situations in my own use where a macro has solved more problems than it has created (due entirely to my inexperience with them, but still).
     So for me, that feature does not rank in the top three reasons I prefer [[Lisp]].
 </details>
 
