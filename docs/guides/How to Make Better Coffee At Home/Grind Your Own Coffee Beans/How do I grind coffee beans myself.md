@@ -16,12 +16,7 @@ coffee grinder good? Basically four things:
 
 This is the most important feature of a good grinder, by far.
 
-Roasted coffee beans are very brittle. That means that a coffee grinder
-works by "shattering" the bean into smaller and smaller pieces. A good
-grinder will break beans into pieces that are all pretty much the same
-size. This is important later to make sure all the little pieces of
-coffee brew the same (instead of some getting "overbrewed," others being
-"underbrewed," and only some others being "just right").
+Roasted coffee beans are very brittle. That means that a coffee grinder works by "shattering" the bean into smaller and smaller pieces. A good grinder will break beans into pieces that are all pretty much the same size. This is important later to make sure all the little pieces of coffee brew the same (instead of some getting "overbrewed," others being "underbrewed," and only some others being "just right").
 
 ## **Precise Grind**
 
